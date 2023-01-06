@@ -1,8 +1,8 @@
 ---
-source-git-commit: 1a71a11a686ca3aa9d6f7451f394aa1f6a40e653
+source-git-commit: 33fc78768c3664f9ed9b608c260414b16f37613a
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 0%
+source-wordcount: '294'
+ht-degree: 22%
 
 ---
 # Contributo
@@ -13,12 +13,12 @@ Di seguito sono riportate alcune linee guida da seguire per contribuire a questo
 
 ## Codice di condotta
 
-Questo progetto è conforme all’Adobe [codice di condotta](code-of-conduct.md). Partecipando, è previsto che tu sostenga questo codice. Segnalare comportamenti inaccettabili a
+Il progetto aderisce al [Codice di condotta](code-of-conduct.md) di Adobe. Con la tua partecipazione, accetti di rispettare questo codice. Segnalare comportamenti inaccettabili a
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
 ## Documentazione della Guida collaboratore
 
-Consulta la sezione [Guida collaboratore](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulta la sezione [Guida collaboratore](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## Avete Una Domanda?
 
@@ -26,12 +26,11 @@ Inizia segnalando un problema. Gli attuali committer di questo progetto si adope
 
 ## Contratto di licenza da collaboratore
 
-Tutti i contributi di terze parti a questo progetto devono essere accompagnati da un contratto di licenza per i contributori firmato. In questo modo si ottiene un Adobe di autorizzazione alla ridistribuzione dei contributi come parte del progetto. [Firma il Contratto di licenza da collaboratore](http://opensource.adobe.com/cla.html). È sufficiente inviare un CLA di Adobe una sola volta, quindi se ne hai già inviato uno in precedenza, puoi iniziare!
+Tutti i contributi di terze parti a questo progetto devono essere accompagnati da un contratto di licenza per i contributori firmato. In tal modo è concesso ad Adobe il permesso di ridistribuire i contributi come parte del progetto. [Firma il Contratto di licenza da collaboratore](http://opensource.adobe.com/cla.html). È sufficiente inviare un CLA di Adobe una sola volta, quindi se ne hai già inviato uno in precedenza, puoi iniziare!
 
 ## Revisioni del codice
 
-Tutti gli invii devono essere effettuati sotto forma di richieste pull e devono essere esaminati dai committer del progetto. Leggi [Documentazione sulla richiesta di pull di GitHub](https://help.github.com/articles/about-pull-requests/)
-per ulteriori informazioni sull’invio di richieste pull.
+Tutte le richieste devono essere presentate sotto forma di richieste pull e devono essere riviste da chi conferma i progetti. Per ulteriori informazioni sull’invio di richieste pull, leggi la [documentazione sulle richieste pull di GitHub](https://help.github.com/articles/about-pull-requests/).
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
