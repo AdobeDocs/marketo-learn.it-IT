@@ -1,10 +1,11 @@
 ---
 title: Tutorials azioni Insight vendite
 description: Utilizzo [!UICONTROL Azioni Insight sulle vendite] accelerare le attività di ricerca in un unico flusso di lavoro grazie a strumenti di intelligenza e coinvolgimento basati sul marketing e condivisi.
+doc-type: overview-page
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 61eb7a8264c77c5ee147c76952983f4f67938d7b
+source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
