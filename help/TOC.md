@@ -2,10 +2,10 @@
 user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
-source-git-commit: 9a8c7a218fc59bb80941881246864c87ff25c55a
+source-git-commit: aec1c347ee9aefbe4f022cbb5e14cbd222828d4a
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 10%
+source-wordcount: '208'
+ht-degree: 9%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 10%
    + [Best practice](instance-management/best-practice-learn.md)
    + [Procedura dettagliata sulle best practice](instance-management/best-practice-watch.md)
 + Eventi {#events}
-   + [Eventi](events/events-learn.md)
+   + [Creazione di un programma evento](events/events-learn.md)
    + [Progettare un webinar interattivo efficace](events/design-an-effective-interactive-webinar.md)
 + Nascosto {#hidden}
    + [Punteggio lead Marketo e Mochas](event-recordings/marketo-and-mochas/lead-scoring.md)
