@@ -7,9 +7,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-03-20T00:00:00Z
 jira: KT-12966
 thumbnail: 3416924.jpeg
-source-git-commit: 2d78284e9263654ed23c2e791beaa19197e1c7fe
+source-git-commit: 9bba0f24a492fdd5b21b30f605498b7519cd8200
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Globalizzazione dei contenuti statici
 
-È già possibile sapere come creare una finestra di dialogo non inglese (se non è selezionato) [qui](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39)). Ora puoi anche personalizzare contenuti statici/di sistema in base al linguaggio desiderato.
+È possibile che sia già possibile creare una finestra di dialogo non inglese (in caso contrario, [fai clic qui](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}). Puoi personalizzare i contenuti statici/di sistema nella lingua desiderata.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on)
 

@@ -3,9 +3,9 @@ title: Tutorials azioni Insight vendite
 description: Utilizzo [!UICONTROL Azioni Insight sulle vendite] accelerare le attività di ricerca in un unico flusso di lavoro grazie a strumenti di intelligenza e coinvolgimento basati sul marketing e condivisi.
 doc-type: overview-page
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
+source-git-commit: 9bba0f24a492fdd5b21b30f605498b7519cd8200
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,8 +49,8 @@ Utilizzo [!UICONTROL Azioni Insight sulle vendite] accelerare le attività di ri
 <p><em>Accelerare le attività di ricerca grazie a strumenti di intelligenza e coinvolgimento basati sul marketing.</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><img alt="immagine miniatura per [!DNL Sales Insight Actions] Guida all’onboarding degli utenti" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><strong>[!DNL Sales Insight Actions] Guida all’onboarding degli utenti</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="immagine miniatura per [!DNL Sales Insight Actions] Guida all’onboarding degli utenti" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] Guida all’onboarding degli utenti</strong></a></div>
 <p><em>Passaggi che i nuovi utenti dovranno seguire per iniziare.</em></p>
 </td>
 <td>
