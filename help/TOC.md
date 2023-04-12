@@ -2,10 +2,10 @@
 user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
-source-git-commit: 534c5bdc8597e2b9b780218c81af48ce1b359b5b
+source-git-commit: aaa97cd7837810f7c213ed46d849cc875d0bff18
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 9%
+source-wordcount: '217'
+ht-degree: 10%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 9%
    + [Struttura organizzativa](fundamentals/organizational-structure-learn.md)
    + [Content marketing](fundamentals/content-marketing-learn.md)
    + [Personale acquirente](fundamentals/buyer-personas-learn.md)
+   + [Programmi e campagne](fundamentals/programs-and-campaigns.md)
 + E-mail marketing {#email-marketing}
    + [E-mail pianificata](email-marketing/scheduled-email-learn.md)
    + [Procedura dettagliata e-mail pianificata](email-marketing/scheduled-email-watch.md)
@@ -60,7 +61,7 @@ ht-degree: 9%
    + [Ricerca in Stream Designer](dynamic-chat/search-in-stream-designer.md)
    + [Acquisizione degli attributi dedotti](dynamic-chat/capture-inferred-attributes.md)
    + [Anteprima finestra di dialogo](dynamic-chat/dialogue-preview.md)
-   + [Rapporto di coinvolgimento](dynamic-chat/engagement-report.md)
+   + [Rapporto sul coinvolgimento](dynamic-chat/engagement-report.md)
    + [Globalizzazione dei contenuti statici](dynamic-chat/globalization-of-static-content.md)
    + [Ruoli e autorizzazioni](dynamic-chat/roles-and-permissions.md)
 + Azioni Insight sulle vendite {#sales-insight-actions}
