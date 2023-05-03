@@ -6,7 +6,7 @@ exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 source-git-commit: aad9219bab058bbd3773b2bcac6726f30e6641fd
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ Benvenuti nel [!UICONTROL Chat dinamica]  sito delle esercitazioni. Segui questi
    *È possibile identificare e popolare gli attributi dedotti rispetto a ogni lead acquisito tramite Chat dinamico sfruttando l’ID Munchkin.*
 * **[Anteprima finestra di dialogo](dialogue-preview.md)**
    *La funzione Anteprima finestra di dialogo facilita l’anteprima della finestra di dialogo prima della pubblicazione.*
-* **[Rapporto di coinvolgimento](engagement-report.md)**
+* **[Rapporto sul coinvolgimento](engagement-report.md)**
    *Scopri le tendenze di interazione dei visitatori web con la finestra di dialogo*
 * **[Globalizzazione dei contenuti statici](globalization-of-static-content.md)**
    *Puoi personalizzare i contenuti statici/di sistema in base al linguaggio desiderato.*
