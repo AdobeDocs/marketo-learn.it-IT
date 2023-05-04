@@ -3,8 +3,10 @@ title: Progettazione di un webinar interattivo efficace
 description: Scopri come creare e progettare un webinar interattivo efficace
 role: User
 level: Beginner
+hide: true
+hidefromtoc: true
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
-source-git-commit: 384a9abb2b0a035e35ef9722113100753ec93b37
+source-git-commit: 875c71551f71628bedbad36ec6e64a49071d3257
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
