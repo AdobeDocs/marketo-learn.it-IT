@@ -3,7 +3,7 @@ title: Esercitazioni sul Marketo Engage
 description: Esercitazioni video su [!DNL Marketo Engage]. Scopri di più su cone utilizzare le funzionalità di automazione marketing e altro ancora.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 49cb28338f1b0701f9c1c6df334435d59961ef4d
+source-git-commit: 59d9ded613045d0ea7345b496e1a9656bf1e3295
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 19%
@@ -27,7 +27,7 @@ Aggiunto di recente [!DNL Marketo Engage] esercitazioni:
 * **[[!DNL Sales Insight Actions] esercitazioni](/help/sales-insight-actions/overview.md)**
    _Utilizzo [!UICONTROL Azioni Insight sulle vendite] accelerare le attività di ricerca in un unico flusso di lavoro grazie a strumenti di intelligenza e coinvolgimento basati sul marketing e condivisi._
 
-* **[Esercitazioni sulle attività dei bot delle e-mail](filtering-email-bot-activities/setup.md)**
+* **[Esercitazioni sulle attività dei bot delle e-mail](/help/filtering-email-bot-activities/setup.md)**
 
    _Una guida per abilitare l’identificazione delle attività e-mail da parte dei bot e per scoprire come filtrare e creare campagne escludendo i bot._
 
