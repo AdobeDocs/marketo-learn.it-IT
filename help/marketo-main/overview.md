@@ -1,12 +1,12 @@
 ---
 title: Esercitazioni sul Marketo Engage
-description: Esercitazioni video su [!DNL Marketo Engage]. Scopri di più su cone utilizzare le funzionalità di automazione marketing e altro ancora.
+description: Guarda i tutorial video su  [!DNL Marketo Engage]. Scopri di più su cone utilizzare le funzionalità di automazione marketing e altro ancora.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 source-git-commit: 59d9ded613045d0ea7345b496e1a9656bf1e3295
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 19%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
