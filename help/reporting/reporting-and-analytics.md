@@ -9,7 +9,7 @@ jira: KT-13219
 thumbnail: 3419295.jpeg
 source-git-commit: fb7fd1d41188048ee7939fc734e10a2ecb26eaf6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
