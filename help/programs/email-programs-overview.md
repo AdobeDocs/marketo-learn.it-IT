@@ -7,7 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13257
 thumbnail: 3419440.jpeg
-source-git-commit: 5fc4567ae77bb4d45509c19d86533645fadca1ed
+source-git-commit: c86e4ce20aa651eb836b5e40a1799f7aa6e044a3
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Guarda questo tutorial per scoprire come creare un programma e-mail con un test 
 ## Risorse aggiuntive:
 
 Per ulteriori informazioni, consulta le relative guide del prodotto:
-* [Documentazione sui programmi e-mail] (https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [Documentazione sui programmi e-mail](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 Per ulteriori informazioni su questa funzione, guarda altri video:
 * [E-mail pianificata attraverso](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
