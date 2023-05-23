@@ -7,7 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13257
 thumbnail: 3419440.jpeg
-source-git-commit: 4db7653b7d3f978d47b5f01feee30ef07c6334f3
+source-git-commit: 5fc4567ae77bb4d45509c19d86533645fadca1ed
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -28,8 +28,8 @@ Per ulteriori informazioni, consulta le relative guide del prodotto:
 * [Documentazione sui programmi e-mail] (https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 Per ulteriori informazioni su questa funzione, guarda altri video:
-* [E-mail pianificata Procedura dettagliata](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
-* [AB Testing - Panoramica](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
+* [E-mail pianificata attraverso](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
+* [I test AB attraversano](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
 
 Scopri dai tuoi colleghi come utilizzare i programmi e-mail:
-* [Post su Expert Customer Blog: programmi e-mail](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
+* [Post sul blog di un cliente esperto: programmi e-mail](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
