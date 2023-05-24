@@ -2,10 +2,10 @@
 user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
-source-git-commit: 5a661800e947fef2fdd418e49440c34a9cb5af1d
+source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 9%
+source-wordcount: '254'
+ht-degree: 8%
 
 ---
 
@@ -19,13 +19,19 @@ ht-degree: 9%
    + [Content marketing](/help/fundamentals/content-marketing-learn.md)
    + [Persone dell&#39;acquirente](/help/fundamentals/buyer-personas-learn.md)
    + [Programmi e campagne](/help/fundamentals/programs-and-campaigns.md)
-+ Introduzione {#get-started}
-   + [Navigare nell’interfaccia utente](/help/get-started/ui-navigation.md)
+   + [Navigare nell’interfaccia utente](/help/fundamentals/ui-navigation.md)
+   + Programmi e campagne {#programs}
+      + [Informazioni su programmi e campagne](help/programs/understanding-programs-and-campaigns.md)
+      + [Programmi predefiniti](/help/programs/default-programs.md)
+      + [Programmi e-mail](/help/programs/email-programs.md)
+      + [Programmi evento](/help/programs/event-programs.md)
+      + [Programmi di coinvolgimento](/help/programs/engagement-programs.md)
 + Programmi {#programs}
-   + [Panoramica dei programmi predefiniti](/help/programs/default-programs-overview.md)
-   + [Panoramica dei programmi e-mail](/help/programs/email-programs-overview.md)
-   + [Panoramica dei programmi evento](/help/programs/event-programs-overview.md)
-   + [Panoramica dei programmi di coinvolgimento](/help/programs/engagement-programs-overview.md)
+   + [Informazioni su programmi e campagne](help/programs/understanding-programs-and-campaigns.md)
+   + [Programmi predefiniti](/help/programs/default-programs.md)
+   + [Programmi e-mail](/help/programs/email-programs.md)
+   + [Programmi evento](/help/programs/event-programs.md)
+   + [Programmi di coinvolgimento](/help/programs/engagement-programs.md)
 + E-mail marketing {#email-marketing}
    + [E-mail pianificata](/help/email-marketing/scheduled-email-learn.md)
    + [Procedura dettagliata per le e-mail pianificate](/help/email-marketing/scheduled-email-watch.md)
