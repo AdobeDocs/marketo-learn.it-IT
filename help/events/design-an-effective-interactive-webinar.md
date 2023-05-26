@@ -1,18 +1,19 @@
 ---
-title: Progettazione di un webinar interattivo efficace
+title: Progettare un webinar interattivo efficace
 description: Scopri come creare e progettare un webinar interattivo efficace
+kt: 13352
 role: User
 level: Beginner
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
-source-git-commit: 8b72cf68529cdcb898ff14d3952920b949daa3c9
+source-git-commit: 51ca9b207c3036de314cb7446e4bbfbd3ee4eb54
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-# Progettazione di un webinar interattivo efficace {#design-an-effective-interactive-webinar}
+# Progettare un webinar interattivo efficace {#design-an-effective-interactive-webinar}
 
-La progettazione di un Webinar interattivo efficace è il primo passo per garantire che la consegna del tuo evento webinar sia coinvolgente e memorabile. In qualità di addetto al marketing, hai diversi obiettivi per la distribuzione di un webinar, ad esempio per mostrare al pubblico il prodotto da cui desideri generare i lead, per evangelizzare un concetto o una tecnologia in grado di generare interesse, per fornire un workshop per coinvolgere i lead e altro ancora. Obiettivi diversi richiedono strategie diverse per garantire che tu distribuisca il webinar in modo ottimale in base alle esigenze dei vari segmenti di pubblico, in modo da garantire la partecipazione e il coinvolgimento giusti per raggiungere i tuoi obiettivi.
+La progettazione di un webinar interattivo efficace è il primo passo per garantire che la consegna dell’evento del webinar sia coinvolgente e memorabile. In qualità di addetto al marketing, hai diversi obiettivi per la creazione di un webinar, ad esempio mostrare il tuo prodotto per generare lead, evangelizzare un concetto o una tecnologia per generare interesse, offrire un workshop per coinvolgere i lead e molto altro ancora. Diversi obiettivi richiedono strategie diverse per garantire la distribuzione ottimale del webinar in base alle esigenze dei vari segmenti di pubblico, in modo da avere la partecipazione e il coinvolgimento giusti per raggiungere gli obiettivi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418602?q=9)
