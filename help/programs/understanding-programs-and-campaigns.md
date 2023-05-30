@@ -1,13 +1,17 @@
 ---
-source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
+title: Informazioni su programmi e campagne
+description: Attira, acquisisci e coinvolgi il tuo pubblico sviluppando una strategia di marketing dei contenuti.
+role: User
+level: Beginner
+kt: 13203
+thumbnail: 3418042.jpg
+source-git-commit: 512f8725093d655a2145551f06b73831c6185d0d
 workflow-type: tm+mt
-source-wordcount: '29'
+source-wordcount: '20'
 ht-degree: 0%
 
 ---
-Titolo: Informazioni su programmi e campagne descrizione: Attira, acquisisci e coinvolgi il tuo pubblico sviluppando una strategia di marketing dei contenuti.
-ruolo: Livello utente: Principiante kt: 13203 miniatura: 3418042.jpg
----
+
 
 # Informazioni su programmi e campagne
 
