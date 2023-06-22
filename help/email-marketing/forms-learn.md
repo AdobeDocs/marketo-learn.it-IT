@@ -1,20 +1,20 @@
 ---
-title: Informazioni sulla creazione e la modifica dei moduli
-description: Utilizzo [!DNL Marketo forms] per acquisire i dati lead in modo progressivo quando i potenziali clienti visitano il sito web.
+title: Scopri come creare e modificare i moduli
+description: Utilizzare [!DNL Marketo forms] per acquisire progressivamente i dati dei lead quando i potenziali clienti visitano il sito Web.
 role: User
 level: Beginner
-kt: 10755
+jira: KT-10755
 thumbnail: 345474.jpeg
 exl-id: 296d462d-b21e-4868-b102-d3d454a1d633
-source-git-commit: 61eb7a8264c77c5ee147c76952983f4f67938d7b
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
-# Informazioni sulla creazione e la modifica dei moduli
+# Scopri come creare e modificare i moduli
 
-Utilizzo [!DNL Marketo forms] per acquisire i dati lead in modo progressivo quando i potenziali clienti visitano il sito web.
+Utilizzare [!DNL Marketo forms] per acquisire progressivamente i dati dei lead quando i potenziali clienti visitano il sito Web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on)

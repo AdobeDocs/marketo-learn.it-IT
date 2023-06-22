@@ -1,20 +1,20 @@
 ---
-title: Scopri come creare un programma e-mail con contenuti collegati
-description: Assegnare alcuni dei contenuti migliori come strategia di marketing per i contenuti ti aiuterà a generare lead e a scoprire quali dei tuoi visitatori sono seri. Informazioni su gated.. (Le descrizioni devono essere comprese tra 60 e 160 caratteri)
+title: Scopri come creare un programma e-mail di contenuti gestiti
+description: Guardare alcuni dei tuoi contenuti migliori come strategia di marketing dei contenuti ti aiuterà a generare lead e scoprire quale dei tuoi visitatori è serio. Informazioni su Gated... (Le descrizioni devono essere comprese tra 60 e 160 caratteri)
 role: User
 level: Beginner
-kt: 10745
+jira: KT-10745
 thumbnail: 345464.jpeg
 exl-id: bcf0ded2-573c-4b6f-b41b-7e1d414f78ef
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# Scopri come creare un programma e-mail con contenuti collegati
+# Scopri come creare un programma e-mail di contenuti gestiti
 
-Assegnare alcuni dei contenuti migliori come strategia di marketing per i contenuti ti aiuterà a generare lead e a scoprire quali dei tuoi visitatori sono seri. Scopri il contenuto registrato, il suo funzionamento e i passaggi per il successo.
+Guardare alcuni dei tuoi contenuti migliori come strategia di marketing dei contenuti ti aiuterà a generare lead e scoprire quale dei tuoi visitatori è serio. Scopri i contenuti gestiti, come funziona e i passaggi per il successo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345464/?quality=12&learn=on)

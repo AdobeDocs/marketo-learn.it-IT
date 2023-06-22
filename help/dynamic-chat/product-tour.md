@@ -1,27 +1,27 @@
 ---
-title: Presentazione del prodotto di Dynamic Chat
+title: Presentazione del prodotto del Dynamic Chat
 description: Scopri la chat dinamica, una nuova soluzione chatbot creata da Adobe per il marketing e le vendite.
 role: User
 level: Beginner
-kt: 9697
+jira: KT-9697
 thumbnail: 340473.jpeg
 exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
-source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 15%
 
 ---
 
-# Presentazione del prodotto [!UICONTROL Chat dinamica]
+# Presentazione del prodotto di [!UICONTROL Dynamic Chat]
 
-[!UICONTROL Chat dinamica]  è una nuova soluzione chatbot realizzata per il marketing e la vendita. È integrato in modo nativo con [!DNL Marketo Engage], che consente di utilizzare [!UICONTROL Chat dinamica]  come nuovo canale nel marketing multicanale. È semplice da usare e facile da configurare. Visita rapida il prodotto:
+[!UICONTROL Dynamic Chat]  è una nuova soluzione chatbot realizzata per il marketing e la vendita. È integrato in modo nativo con [!DNL Marketo Engage], che consente di utilizzare [!UICONTROL Dynamic Chat]  come nuovo canale nel marketing cross-channel. È semplice da usare e facile da configurare. Presentazione rapida del prodotto:
 
 >[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on)
 
 ## Video più utili
 
-* [Installazione e installazione del chatbot](setup.md)
-* [Attiva l&#39;integrazione Marketo con [!UICONTROL Chat dinamica] ](marketo-integration.md)
-* [Aggiungi e gestisci gli utenti di [!UICONTROL Chat dinamica] ](user-management.md)
-* [Vivi in soli 15 minuti](go-live-in-15-minutes.md)
+* [Configurare e installare il chatbot](setup.md)
+* [Attivare l’integrazione Marketo con [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Aggiungi e gestisci gli utenti di [!UICONTROL Dynamic Chat]](user-management.md)
+* [Vai live in soli 15 minuti](go-live-in-15-minutes.md)

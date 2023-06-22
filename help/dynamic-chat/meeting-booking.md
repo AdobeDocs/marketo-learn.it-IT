@@ -1,12 +1,12 @@
 ---
 title: Consentire alle persone di prenotare le riunioni con il team di vendita
-description: Utilizza Dynamic Chat per accelerare la connessione con le vendite per [!DNL target] lead dell’account.
+description: Utilizza il Dynamic Chat per accelerare la connessione con le vendite per [!DNL target] lead dell’account.
 role: User
 level: Beginner
-kt: 9696
+jira: KT-9696
 thumbnail: 340258.jpeg
 exl-id: ad61b583-b62a-45a3-afca-7533891a224b
-source-git-commit: 6014e75c879589770cfb5dcdc3ad19be80269ced
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Consentire alle persone di prenotare le riunioni con il team di vendita
 
-Utilizza Dynamic Chat per accelerare la connessione con le vendite per [!DNL target] lead dell’account. Consentire ai visitatori di prenotare riunioni con vari rappresentanti commerciali aggiungendo i propri agenti di vendita come utente tramite [admin console](https://adminconsole.adobe.com/) e ogni agente deve collegare il proprio calendario.
+Utilizza il Dynamic Chat per accelerare la connessione con le vendite per [!DNL target] lead dell’account. Consentire ai visitatori di prenotare riunioni con vari rappresentanti commerciali aggiungendo i propri agenti di vendita come utente tramite [admin console](https://adminconsole.adobe.com/) e ogni agente deve collegare il proprio calendario.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340258/?quality=12&learn=on)
 
