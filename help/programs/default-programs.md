@@ -1,5 +1,5 @@
 ---
-title: Programmi predefiniti
+title: Creare e misurare un programma predefinito
 description: Scopri come creare e misurare il successo dei programmi predefiniti.
 level: Beginner
 doc-type: Feature Video
@@ -7,14 +7,15 @@ last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13259
 thumbnail: 3419623.jpeg
 exl-id: d9fbd960-6eab-4e3b-b9f4-69384556c95e
-source-git-commit: 5d68564d02044dfb617f0f51d89ddd8fc1e8df07
+source-git-commit: 964c933df83b3f915785c5c7c4ccf4cfeacb74dc
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
-# Programmi predefiniti
+
+# Creare e misurare un programma predefinito
 
 Scopri come creare e misurare il successo dei programmi predefiniti.
 
