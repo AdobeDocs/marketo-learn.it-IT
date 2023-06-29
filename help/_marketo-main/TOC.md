@@ -2,9 +2,9 @@
 user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
-source-git-commit: 964c933df83b3f915785c5c7c4ccf4cfeacb74dc
+source-git-commit: 0ae3946dbb09034052fefc66019d0b1a2ea942e4
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '271'
 ht-degree: 8%
 
 ---
@@ -22,12 +22,13 @@ ht-degree: 8%
    + [Navigare nell’interfaccia utente](/help/fundamentals/ui-navigation.md)
 + Programmi e campagne {#programs-and-campaigns}
    + [Informazioni su programmi e campagne](/help/programs/understanding-programs-and-campaigns.md)
-   + [Programmi predefiniti](/help/programs/default-programs.md)
-   + [Sfruttare la flessibilità dei programmi predefiniti](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + [Programmi e-mail](/help/programs/email-programs.md)
+   + [Campagne avanzate 101](/help/campaigns/smart-campaigns-101.md)
    + [Programmi evento](/help/programs/event-programs.md)
    + [Programmi di coinvolgimento](/help/programs/engagement-programs.md)
-   + [Campagne avanzate 101](/help/campaigns/smart-campaigns-101.md)
+   + [Programmi e-mail](/help/programs/email-programs.md)
+   + [Programmi predefiniti]{#default-programs}
+      + [Creare e misurare un programma predefinito](/help/programs/create-and-measure-default-programs.md)
+      + [Sfruttare la flessibilità dei programmi predefiniti](/help/programs/leverage-the-flexibility-of-default-programs.md)
 + E-mail marketing {#email-marketing}
    + [E-mail pianificata](/help/email-marketing/scheduled-email-learn.md)
    + [Procedura dettagliata per le e-mail pianificate](/help/email-marketing/scheduled-email-watch.md)
