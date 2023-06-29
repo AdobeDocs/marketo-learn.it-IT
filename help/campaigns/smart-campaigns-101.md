@@ -1,5 +1,5 @@
 ---
-title: 'Campagne avanzate 101: cosa puoi fare con le campagne avanzate oltre i programmi principali'
+title: Campagne avanzate 101
 description: Scopri come utilizzare le campagne avanzate per la normalizzazione dei dati e gli avvisi automatizzati.
 role: User
 level: Beginner
@@ -8,14 +8,14 @@ last-substantial-update: 2023-05-30T00:00:00Z
 jira: KT-13263
 thumbnail: 3420096.jpeg
 exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
-source-git-commit: 4164691859d6e907794fca75fe8e71e1aa0332d9
+source-git-commit: b23ba9f2bf8ebc824385649b9d5b9b464eb2af97
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Campagne avanzate 101: cosa puoi fare con le campagne avanzate oltre i programmi principali
+# Campagne avanzate 101
 
 Le campagne intelligenti sono il motore di Marketo. Oltre a utilizzare le campagne intelligenti per l’invio di e-mail e programmi, puoi utilizzare le campagne intelligenti per diversi casi d’uso. Scopri come utilizzare le campagne avanzate per la normalizzazione dei dati e gli avvisi automatizzati.
 
