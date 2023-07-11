@@ -7,7 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-11T00:00:00Z
 jira: KT-13608
 thumbnail: 3421577.jpeg
-source-git-commit: 3541cb30d3e2e3f6f9e82d95179a352fd052e0d1
+source-git-commit: 8aeef083b27c23dac3828db9519e0cbd79f31f7e
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -29,5 +29,6 @@ Quando inizi a lavorare con il Marketo Engage, l’organizzazione è fondamental
 * [Clona un programma](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html)
 * [Clonare una risorsa in un programma](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.html)
 * [Importare un programma](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
-* [Informazioni sulle cartelle] (https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html) *[Crea nuova cartella campagna](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)
-*[Informazioni sulle aree di lavoro e sulle partizioni delle persone](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html)
+* [Informazioni sulle cartelle](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html)
+* [Crea nuova cartella campagna](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)
+* [Informazioni sulle aree di lavoro e sulle partizioni delle persone](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html)
