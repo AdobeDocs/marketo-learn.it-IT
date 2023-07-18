@@ -3,9 +3,9 @@ title: Tutorials azioni approfondimento vendite
 description: Utilizzare [!UICONTROL Azioni approfondimento vendite] accelerare le attività di ricerca di potenziali clienti con strumenti di marketing e coinvolgimento riuniti in un unico flusso di lavoro.
 doc-type: overview-page
 role: User, Admin, Leader
-level: Beginner, Intermediate, Advanced
+level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 6cf9522c1eaf069b8a86e9f26f7590434b703730
+source-git-commit: 6570cbdbdc4403b24b8c0bdbf4d064d326925b92
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
