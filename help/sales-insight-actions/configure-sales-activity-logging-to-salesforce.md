@@ -1,23 +1,24 @@
 ---
-title: Configurare la registrazione delle attività di vendita in [!DNL Salesforce]
-description: Configurare la registrazione delle attività di vendita in [!DNL Salesforce]
+title: Configura registrazione attività di vendita in [!DNL Salesforce]
+description: Configura registrazione attività di vendita in [!DNL Salesforce]
 role: User
 level: Beginner
 exl-id: a48410aa-cd68-46b2-bd52-1a7253470e74
-source-git-commit: 61eb7a8264c77c5ee147c76952983f4f67938d7b
+feature: Sales Insight Actions
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-# Configurare la registrazione delle attività di vendita in [!DNL Salesforce] {#configure-sales-activity-logging-to-salesforce}
+# Configura registrazione attività di vendita in [!DNL Salesforce] {#configure-sales-activity-logging-to-salesforce}
 
-Scopri come configurare e registrare le attività di Insight vendite nel tuo [!DNL Salesforce] conto.
+Scopri come configurare e registrare le attività Sales Insight Actions nel tuo [!DNL Salesforce] account.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on)
 
 ## Video correlati
 
-* [Panoramica delle azioni Approfondimenti vendite](/help/sales-insight-actions/sales-insight-actions-overview.md){target=&quot;_blank&quot;}
-* [Accesso al [!DNL Sales Insight Actions] Istanza](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target=&quot;_blank&quot;}
+* [Panoramica delle azioni di approfondimento sulle vendite](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
+* [Accesso al [!DNL Sales Insight Actions] Istanza](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
