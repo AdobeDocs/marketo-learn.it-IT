@@ -2,10 +2,10 @@
 user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
-source-git-commit: 8c572e543d2c1c0b1f5a3b2b73fc0f19888c3878
+source-git-commit: a662b700709081a7f071c01e95f5faca8e1e3139
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 8%
+source-wordcount: '295'
+ht-degree: 7%
 
 ---
 
@@ -32,6 +32,10 @@ ht-degree: 8%
       + [Creare e misurare un programma predefinito](/help/programs/create-and-measure-default-programs.md)
       + [Sfruttare la flessibilità dei programmi predefiniti](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + [Programmi di coinvolgimento](/help/programs/engagement-programs.md)
+   + Mappe di coinvolgimento {#engagement-maps}
+      + [Panoramica sulla mappa del coinvolgimento](help/campaigns/engagement-maps/engagement-map-overview.md)
+      + [Campagne nidificate con mappa di coinvolgimento](help/campaigns/engagement-maps/engagement-map-nested-campaign.md)
+      + [Rilevamento e risoluzione degli errori di Engagement Map](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + E-mail marketing {#email-marketing}
    + [E-mail pianificata](/help/email-marketing/scheduled-email-learn.md)
    + [Procedura dettagliata per le e-mail pianificate](/help/email-marketing/scheduled-email-watch.md)
@@ -62,7 +66,7 @@ ht-degree: 8%
    + [Personalizzazione web](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Procedura dettagliata per la personalizzazione web](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
-   + [Tutorial su Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md)
+   + [Tutorial di Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md)
    + [Presentazione del prodotto](/help/dynamic-chat/product-tour.md)
    + [Installazione e installazione](/help/dynamic-chat/setup.md)
    + [Integrazione con Marketo](/help/dynamic-chat/marketo-integration.md)
