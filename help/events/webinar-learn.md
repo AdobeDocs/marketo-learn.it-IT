@@ -7,9 +7,9 @@ jira: KT-10758
 thumbnail: 345476.jpeg
 exl-id: 52358882-e7cd-4781-b379-02314f7c5b10
 feature: Programs, Events
-source-git-commit: a80bf39486992aa7a11988e6517197860b60e6c2
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Sei pronto a eseguire un webinar come parte delle attività di marketing? Scopri come funzionano i webinar con [!DNL Marketo Engage] e i relativi partner del webinar su Exchange di Adobe.
 
->[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on){transcript=true}

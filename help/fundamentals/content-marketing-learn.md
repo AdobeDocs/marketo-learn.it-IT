@@ -7,9 +7,9 @@ jira: KT-10734
 thumbnail: 345417.jpeg
 exl-id: 5b238132-3ea3-4cc8-a079-b107bb32da36
 feature: Marketing
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Attira, acquisisci e coinvolgi il tuo pubblico sviluppando una strategia di marketing dei contenuti. Scopri i passaggi chiave per il successo, tra cui l’ottimizzazione e la misurazione dell’impatto dei contenuti.
 
->[!VIDEO](https://video.tv.adobe.com/v/345417/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345417/?quality=12&learn=on){transcript=true}
