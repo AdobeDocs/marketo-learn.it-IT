@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 7e07cf83181451e37478026a36f49b02480468cf
+source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '304'
 ht-degree: 8%
 
 ---
@@ -74,6 +74,8 @@ ht-degree: 8%
    + [Integrazione con Marketo](/help/dynamic-chat/marketo-integration.md)
    + [Gestione degli utenti](/help/dynamic-chat/user-management.md)
    + [Gestione finestre di dialogo](/help/dynamic-chat/dialogue-management.md)
+   + [Configurare la chat live](/help/dynamic-chat/set-up-live-chat.md)
+   + [Gestione agente](/help/dynamic-chat/agent-management.md)
    + [Prenotazioni riunioni](/help/dynamic-chat/meeting-booking.md)
    + [Pubblica tra 15 minuti](/help/dynamic-chat/go-live-in-15-minutes.md)
    + [Incorpora PDF nelle conversazioni](/help/dynamic-chat/document-cloud-integration.md)
