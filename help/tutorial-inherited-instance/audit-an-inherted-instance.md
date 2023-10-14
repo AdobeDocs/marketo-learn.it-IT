@@ -10,9 +10,9 @@ last-substantial-update: 2023-08-08T00:00:00Z
 jira: KT-13762
 thumbnail: 3422473.jpeg
 hide: true
-source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
+source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Ereditare un’istanza del Marketo Engage può essere un momento stressante, sia
 
 Questa esercitazione illustra le sezioni più importanti all&#39;interno di Marketi Engage, inclusi Admin, Marketing Activities, Design Studio e Database, e fornisce suggerimenti per il controllo e l&#39;ottimizzazione durante il processo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
