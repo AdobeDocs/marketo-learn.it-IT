@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Quando entri in una versione precedente [!DNL Marketo Engage] ad esempio, spesso si scontra con la sfida di non disporre di una documentazione tecnica e funzionale aggiornata. In qualità di amministratore, stabilire linee guida per garantire una corretta governance delle istanze è una responsabilità fondamentale che non puoi ignorare. Si tratta di una delle strategie fondamentali per [aumentare l&#39;efficienza mentre si lavora in un&#39;istanza di Marketo Engage consolidata](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
-Questo tutorial dettagliato ottenuto da [!DNL Adobe Marketo Champion], Nick Hajdin, ti guiderà attraverso questo processo per delineare la configurazione della tua istanza, documentare i programmi operativi principali e mantenere un [!DNL changelog] per applicare una rigida politica di governance.
+Questo tutorial dettagliato ottenuto da [!DNL Adobe Marketo Champion] (2018), Nick Hajdin, ti guiderà attraverso questo processo per delineare la configurazione della tua istanza, documentare i programmi operativi principali e mantenere un [!DNL changelog] per applicare una rigida politica di governance.
 
 ## Perché sviluppare una guida alla governance delle istanze e una documentazione per l’istanza ereditata?
 
