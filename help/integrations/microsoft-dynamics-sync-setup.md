@@ -10,7 +10,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14112
 thumbnail: 3424737.jpeg
-source-git-commit: a2a4c986fa5f46682c79a61a539f057d74eef6a1
+source-git-commit: a40cb276fbf63d4707d6e238c4b536f7629a748e
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Scopri come funziona la sincronizzazione di Microsoft Dynamics 365 e configura c
 
 * [Scarica la soluzione di gestione dei lead Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html)
 
-* [Aggiornare la soluzione Marketo per Microsoft Dynamics](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html)]
+* [Aggiornare la soluzione Marketo per Microsoft Dynamics](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html)
 
 * [Concedere il consenso per la registrazione di ID client e app](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration.html)
 
