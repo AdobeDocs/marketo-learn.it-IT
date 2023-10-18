@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 10%
+source-wordcount: '405'
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,9 @@ ht-degree: 10%
 Benvenuto in [!UICONTROL Dynamic Chat]  sito dei tutorial. Segui questi tutorial insieme alla documentazione per comprendere meglio come utilizzare [!UICONTROL Dynamic Chat]  per creare conversazioni personalizzate. I seguenti argomenti possono essere utili per iniziare:
 
 * Panoramica
-   * **[Presentazione rapida del prodotto](product-tour.md)**
+   * **[Presentazione rapida dei prodotti [2023]](product-tour.md)**
+     *Panoramica di tutte le nuove funzioni introdotte nel 2023.*
+   * **[Presentazione rapida dei prodotti [2022]](product-tour.md)**
      *Ottieni una panoramica del prodotto completo e scopri come sfruttarlo [!UICONTROL Dynamic Chat].*
    * **[Pubblica tra 15 minuti](go-live-in-15-minutes.md)**
      *Una guida dettagliata per aiutarti a visualizzare la tua prima finestra di dialogo utilizzando [!UICONTROL Dynamic Chat]  in soli 15 minuti!*
@@ -50,9 +52,11 @@ Benvenuto in [!UICONTROL Dynamic Chat]  sito dei tutorial. Segui questi tutorial
      *Puoi personalizzare il contenuto statico/di sistema nella lingua desiderata.*
    * **[Moduli conversazionali](conversational-forms.md)**
      *Scopri come coinvolgere i visitatori del tuo sito web immediatamente dopo la compilazione di un modulo.*
+   * **[SDK conversazioni](conversations-sdk.md)**
+     *Scopri come implementare l’SDK per conversazioni per convertire qualsiasi clic CTA in una conversazione coinvolgente.*
 * Prenotazione di chat e riunioni in tempo reale
-   * **[Configurare la chat live](set-up-live-chat.md)**
-     *Scopri come impostare la chat in tempo reale.*
+   * **[Connettere i visitatori agli agenti live](connect-visitors-to-live-agents.md)**
+     *Collega i tuoi lead qualificati per interagire immediatamente con i tuoi agenti di vendita.*
    * **[Consentire ai lead di prenotare riunioni con il personale di vendita](meeting-booking.md)**
      *Accelera la connessione con le vendite per questi [!DNL target] account con funzionalità di prenotazione Meeting.*
 * Analytics
