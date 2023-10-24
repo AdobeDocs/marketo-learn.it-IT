@@ -9,7 +9,7 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
-source-git-commit: a1d91c75df6fc162d0ae6f8e2c58a98127581136
+source-git-commit: 96ec338944d486b74ac77d91aba3ede482abf135
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 0%
