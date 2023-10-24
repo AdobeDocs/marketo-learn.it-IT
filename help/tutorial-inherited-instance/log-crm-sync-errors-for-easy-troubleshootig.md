@@ -9,7 +9,7 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
-source-git-commit: b2659102b57cf86f89d524f4786d3101800a0a38
+source-git-commit: a1d91c75df6fc162d0ae6f8e2c58a98127581136
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Registra gli errori di sincronizzazione CRM per una facile risoluzione dei problemi
 
-In qualità di amministratore di Marketo Engage, verificare se l’istanza è sincronizzata con il tuo sistema CRM deve essere una parte chiave del tuo [routine giornaliera](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (puoi trovarlo nell’angolo in alto a destra dell’interfaccia del Marketo Engage) è il punto in cui inizierai a trovare e analizzare i frequenti problemi di sincronizzazione. esiste un suggerimento pro che potrebbe aiutarti a gestire lo stato dell’istanza in modo organizzato.  Adobe Marketo Champion(2022), Amy Goldfine consiglia agli utenti amministratori di tenere un registro degli errori di sincronizzazione CRM per semplificare la risoluzione dei problemi.
+In qualità di amministratore di Marketo Engage, verificare se l’istanza è sincronizzata con il tuo sistema CRM deve essere una parte chiave del tuo [routine giornaliera](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (puoi trovarlo nell’angolo in alto a destra dell’interfaccia del Marketo Engage) è il punto in cui inizierai a trovare e analizzare i frequenti problemi di sincronizzazione. esiste un suggerimento pro che potrebbe aiutarti a gestire lo stato dell’istanza in modo organizzato. Adobe Marketo Champion (2019-2022), Amy Goldfine consiglia agli utenti amministratori di mantenere un registro degli errori di sincronizzazione CRM per semplificare la risoluzione dei problemi.
 
 ![Schermata della scheda Errori di sincronizzazione](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
