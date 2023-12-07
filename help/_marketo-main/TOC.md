@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
 auto-video-transcripts: true
-source-git-commit: e131a83a6314b77d842b003824b9e33649ab224c
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 8%
+source-wordcount: '322'
+ht-degree: 7%
 
 ---
 
@@ -87,7 +87,6 @@ ht-degree: 8%
    + [Anteprima finestra di dialogo](/help/dynamic-chat/dialogue-preview.md)
    + [Rapporto sul coinvolgimento](/help/dynamic-chat/engagement-report.md)
    + [Globalizzazione del contenuto statico](/help/dynamic-chat/globalization-of-static-content.md)
-   + [Ruoli e autorizzazioni](/help/dynamic-chat/roles-and-permissions.md)
 + Azioni approfondimento vendite {#sales-insight-actions}
    + [Panoramica](/help/sales-insight-actions/overview.md)
    + [Panoramica delle azioni di approfondimento sulle vendite](/help/sales-insight-actions/sales-insight-actions-overview.md)
