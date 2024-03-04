@@ -3,17 +3,17 @@ user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
+source-git-commit: 5b5a85ecff06d79143be92096083e0e9be5da919
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
 
 # [!DNL Marketo Engage] esercitazioni {#tutorials}
 
-+ [[!DNL Marketo Engage] esercitazioni](/help/_marketo-main/overview.md)
++ [Tutorial su [!DNL Marketo Engage]](/help/_marketo-main/overview.md)
 + Nozioni di base {#fundamentals}
    + [Obiettivi e strategia](/help/fundamentals/goals-and-strategy-learn.md)
    + [Struttura organizzativa](/help/fundamentals/organizational-structure-learn.md)
