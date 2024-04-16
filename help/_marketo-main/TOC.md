@@ -3,7 +3,7 @@ user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 5b5a85ecff06d79143be92096083e0e9be5da919
+source-git-commit: 8bfe4ab10393f5a9f97666aa13e183dbb664b055
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 8%
@@ -98,6 +98,8 @@ ht-degree: 8%
    + [Centro sottoscrizioni](/help/lead-and-data-management/subscription-center-learn.md)
    + [Procedura dettagliata per il centro abbonamenti](/help/lead-and-data-management/subscription-center-watch.md)
    + [Sincronizzazione CRM](/help/lead-and-data-management/crm-sync-learn.md)
+   + [Guida introduttiva alla sincronizzazione con Salesforce](/help/integrations/salesforce-sync-setup.md)
+   + [Guida introduttiva alla sincronizzazione con Microsoft Dynamics](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Ciclo di vita del lead](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Procedura dettagliata sul ciclo di vita del lead](/help/lead-and-data-management/lead-lifecycle-watch.md)
 + Eventi {#events}
@@ -110,6 +112,4 @@ ht-degree: 8%
    + [Reporting e analisi](/help/reporting/reporting-and-analytics.md)
    + [Rapporti chiave](/help/reporting/key-reports.md)
 + Integrazioni {#integrations}
-   + [Guida introduttiva alla sincronizzazione con Salesforce](/help/integrations/salesforce-sync-setup.md)
-   + [Guida introduttiva alla sincronizzazione con Microsoft Dynamics](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Marketo con Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
