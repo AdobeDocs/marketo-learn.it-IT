@@ -6,7 +6,7 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
+source-git-commit: b598324c7361191dce365157abbe9a2e45739820
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 8%
@@ -62,5 +62,5 @@ Benvenuto in [!UICONTROL Dynamic Chat]  sito dei tutorial. Segui questi tutorial
      *Scopri come utilizzare le funzioni GenAI di Dynamic Chat.*
 * Analytics
    * **[Rapporto di coinvolgimento](engagement-report.md)**
-     *Scopri le tendenze del coinvolgimento dei visitatori web con il tuo dialogo*
+     *Scopri le tendenze del coinvolgimento dei visitatori web con il tuo dialogo.*
 
