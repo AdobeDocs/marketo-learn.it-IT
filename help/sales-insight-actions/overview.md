@@ -6,9 +6,9 @@ role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 feature: Sales Insight Actions
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 063ac280987d4a2b68245f51cde1199ea93319df
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,6 @@ ht-degree: 0%
 ![](assets/header.png)
 
 Utilizzare [!UICONTROL Azioni approfondimento vendite] accelerare le attività di ricerca di potenziali clienti con strumenti di marketing e coinvolgimento riuniti in un unico flusso di lavoro.
-
->[!AVAILABILITY]
->
->Questa funzione è attualmente in fase di rollout. Contatta il tuo Customer Success Manager o invia un messaggio e-mail `sales-insights(at)adobe(dot)com` per richiedere l&#39;accesso.
 
 ## Tutorials in primo piano {#featured-tutorials}
 
@@ -63,11 +59,3 @@ Utilizzare [!UICONTROL Azioni approfondimento vendite] accelerare le attività d
 </td>
 </tr>
 </table>
-
-## Supporto personalizzato {#personalized-support}
-
-Per ricevere supporto personalizzato per questa funzione, [pianificare una chiamata](https://outlook.office365.com/owa/calendar/AdobeInc1@adobe.onmicrosoft.com/bookings/) con il team di prodotto.
-
-## Segnala bug/feedback {#report-a-bug-feedback}
-
-Se riscontri un bug o hai un feedback generale su questa funzione, inviaci un&#39;e-mail all&#39;indirizzo `sales-insights(at)adobe(dot)com`.
