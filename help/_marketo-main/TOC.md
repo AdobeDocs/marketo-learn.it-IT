@@ -11,7 +11,7 @@ ht-degree: 7%
 ---
 
 
-# [!DNL Marketo Engage] esercitazioni {#tutorials}
+# [!DNL Marketo Engage] tutorial {#tutorials}
 
 + [Tutorial su [!DNL Marketo Engage]](/help/_marketo-main/overview.md)
 + Nozioni di base {#fundamentals}
@@ -25,8 +25,8 @@ ht-degree: 7%
    + [Best practice per organizzare una nuova istanza](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Best practice per la creazione di programmi fondamentali](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personalizzare con i token](/help/personalization/personalize-with-tokens.md)
-   + [Implementare una nuova istanza - Tutorial](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [Controllo di un’istanza ereditata: tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [Implementare una nuova istanza - Esercitazione](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Controllo di un&#39;istanza ereditata - Tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Programmi e campagne {#programs-and-campaigns}
    + [Informazioni su programmi e campagne](/help/programs/understanding-programs-and-campaigns.md)
    + [Campagne avanzate 101](/help/campaigns/smart-campaigns-101.md)
@@ -58,7 +58,7 @@ ht-degree: 7%
    + [Procedura dettagliata e-mail attivata](/help/email-marketing/triggered-email-watch.md)
    + [Alimentazione con piombo](/help/email-marketing/lead-nuturing-learn.md)
    + [Contenuti dinamici e predittivi](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-   + [Filtraggio delle attività bot per e-mail - Configurazione](/help/filtering-email-bot-activities/setup.md)
+   + [Filtro delle attività bot di posta elettronica - Configurazione](/help/filtering-email-bot-activities/setup.md)
 + Marketing cross-channel {#cross-channel-marketing}
    + [Procedura dettagliata di Forms](/help/email-marketing/forms-watch.md)
    + [Integrazione del mobile marketing](/help/cross-channel-marketing/mobile-marketing-learn.md)
@@ -80,7 +80,7 @@ ht-degree: 7%
    + [Gestione agente](/help/dynamic-chat/agent-management.md)
    + [Gestione finestre di dialogo](/help/dynamic-chat/dialogue-management.md)
    + [Incorpora PDF nelle conversazioni](/help/dynamic-chat/document-cloud-integration.md)
-   + [Cerca in Progettazione flussi](/help/dynamic-chat/search-in-stream-designer.md)
+   + [Cerca in Stream Designer](/help/dynamic-chat/search-in-stream-designer.md)
    + [Acquisizione degli attributi dedotti](/help/dynamic-chat/capture-inferred-attributes.md)
    + [Anteprima finestra di dialogo](/help/dynamic-chat/dialogue-preview.md)
    + [Globalizzazione del contenuto statico](/help/dynamic-chat/globalization-of-static-content.md)
@@ -97,7 +97,7 @@ ht-degree: 7%
    + [Panoramica delle azioni di approfondimento sulle vendite](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Accesso all’istanza delle azioni di approfondimento sulle vendite](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Configura registrazione attività di vendita in [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
-+ Gestione di lead e dati {#lead-and-data-management}
++ Gestione dati e lead {#lead-and-data-management}
    + [Punteggio lead/persona](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Procedura dettagliata per punteggio lead/persona](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Centro sottoscrizioni](/help/lead-and-data-management/subscription-center-learn.md)

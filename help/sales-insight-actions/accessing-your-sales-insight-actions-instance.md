@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Accesso all’istanza delle azioni Sales Insight {#accessing-your-sales-insight-actions-instance}
 
-Questo video fornisce una panoramica su come accedere al [!UICONTROL Azioni approfondimento vendite] per creare contenuti, configurare l&#39;account, invitare un nuovo utente e altro ancora.
+Questo video fornisce una panoramica su come accedere al tuo account [!UICONTROL Azioni di approfondimento sulle vendite] per creare contenuti, configurare l&#39;account, invitare un nuovo utente e altro ancora.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340925/?quality=12&learn=on){transcript=true}
 

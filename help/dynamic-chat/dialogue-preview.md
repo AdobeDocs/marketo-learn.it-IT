@@ -24,6 +24,6 @@ Visualizzare l’anteprima della finestra di dialogo prima di pubblicarla è mol
 
 ## Video più utili
 
-* [Aggiungi e gestisci gli utenti di [!UICONTROL Dynamic Chat]](user-management.md)
+* [Aggiungi e gestisci gli utenti del [!UICONTROL Dynamic Chat]](user-management.md)
 * [Creare e gestire dialoghi personalizzati](dialogue-management.md)
-* [Attivare l’integrazione Marketo con [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Attiva l&#39;integrazione Marketo con [!UICONTROL Dynamic Chat]](marketo-integration.md)

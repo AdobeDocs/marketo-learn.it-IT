@@ -12,7 +12,7 @@ ht-degree: 35%
 
 # [!DNL Marketo Engage] Tutorial
 
-Sfoglia la nostra libreria di tutorial e ottieni il massimo da [!DNL Marketo Engage]. Questi tutorial possono essere di aiuto per integrare [[!DNL Marketo] documentazione del prodotto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it){target="_blank"} per aiutarti a comprendere meglio le funzioni di automazione del marketing.
+Sfoglia la libreria dei tutorial e sfrutta al massimo [!DNL Marketo Engage]. Questi tutorial possono essere utili per integrare la [[!DNL Marketo] documentazione del prodotto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it){target="_blank"} e aiutarti a comprendere meglio le funzioni di automazione marketing.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

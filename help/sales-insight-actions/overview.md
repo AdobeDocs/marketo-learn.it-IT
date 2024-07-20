@@ -1,6 +1,6 @@
 ---
 title: Tutorials azioni approfondimento vendite
-description: Utilizzare [!UICONTROL Azioni approfondimento vendite] accelerare le attività di ricerca di potenziali clienti con strumenti di marketing e coinvolgimento riuniti in un unico flusso di lavoro.
+description: Utilizza [!UICONTROL Azioni approfondimento vendite] per accelerare le attività di ricerca di potenziali clienti con strumenti di marketing e coinvolgimento basati su un unico flusso di lavoro.
 doc-type: overview-page
 role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/header.png)
 
-Utilizzare [!UICONTROL Azioni approfondimento vendite] accelerare le attività di ricerca di potenziali clienti con strumenti di marketing e coinvolgimento riuniti in un unico flusso di lavoro.
+Utilizza [!UICONTROL Azioni approfondimento vendite] per accelerare le attività di ricerca di potenziali clienti con strumenti di marketing e coinvolgimento basati su un unico flusso di lavoro.
 
 ## Tutorials in primo piano {#featured-tutorials}
 
@@ -29,7 +29,7 @@ Utilizzare [!UICONTROL Azioni approfondimento vendite] accelerare le attività d
 </td>
 <td>
 <a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><img alt="miniatura per accedere all’istanza delle azioni Sales Insight" src="assets/accessing-your-sales-insight-actions-instance-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><strong>Accesso all’istanza delle azioni Sales Insight</strong></a></div>
+<div><a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><strong>Accesso all'istanza delle azioni di approfondimento sulle vendite</strong></a></div>
 </td>
 <td>
 <a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><img alt="immagine di anteprima per configurare la registrazione delle attività di vendita in [!DNL Salesforce]" src="assets/configure-sales-activity-logging-to-salesforce-videothumb.png" /></a>
@@ -44,12 +44,12 @@ Utilizzare [!UICONTROL Azioni approfondimento vendite] accelerare le attività d
 <tr>
 <td>
 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><img alt="anteprima delle azioni Sales Insight Panoramica della funzione" src="assets/sales-insight-actions-feature-overview-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><strong>Panoramica sulla funzione Azioni approfondimenti vendite</strong></a></div>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><strong>Panoramica delle azioni di approfondimento sulle vendite</strong></a></div>
 <p><em>Accelera le attività di ricerca di potenziali clienti con strumenti di intelligenza e coinvolgimento basati sul marketing.</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="miniatura per [!DNL Sales Insight Actions] Guida all’onboarding degli utenti" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] Guida all’onboarding degli utenti</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="immagine di anteprima per la Guida all&apos;onboarding di [!DNL Sales Insight Actions] utenti" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div>Guida all'onboarding di <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] utenti</strong></a></div>
 <p><em>Passaggi che i nuovi utenti dovranno seguire per iniziare.</em></p>
 </td>
 <td>

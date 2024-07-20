@@ -1,6 +1,6 @@
 ---
 title: Come creare un programma sul ciclo di vita della persona
-description: Creare un [!UICONTROL ciclo di vita della persona] programma che tiene traccia dei lead utilizzando gli stati del programma e agisce sui lead pronti per la vendita.
+description: Crea un programma del ciclo di vita di [!UICONTROL persona] che tiene traccia dei lead utilizzando gli stati del programma e agisce sui lead pronti per la vendita.
 role: User
 level: Beginner
 jira: KT-10739
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Come creare un programma sul ciclo di vita della persona
 
-Creare un [!UICONTROL ciclo di vita della persona] programma che tiene traccia dei lead utilizzando gli stati del programma e agisce sui lead pronti per la vendita.
+Crea un programma del ciclo di vita di [!UICONTROL persona] che tiene traccia dei lead utilizzando gli stati del programma e agisce sui lead pronti per la vendita.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}

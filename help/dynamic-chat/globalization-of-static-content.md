@@ -11,7 +11,7 @@ exl-id: 19ccc619-50f9-4737-875c-8f87f55a0183
 feature: Dynamic Chat
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ ht-degree: 0%
 
 ## Video più utili
 
-* [Aggiungi e gestisci gli utenti di [!UICONTROL Dynamic Chat]](user-management.md)
+* [Aggiungi e gestisci gli utenti del [!UICONTROL Dynamic Chat]](user-management.md)
 * [Creare e gestire dialoghi personalizzati](dialogue-management.md)
-* [Attivare l’integrazione Marketo con [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Attiva l&#39;integrazione Marketo con [!UICONTROL Dynamic Chat]](marketo-integration.md)

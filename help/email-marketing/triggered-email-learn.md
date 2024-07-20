@@ -1,6 +1,6 @@
 ---
 title: Scopri come creare campagne e-mail attivate
-description: Scopri come utilizzare [!DNL Marketo] trarre vantaggio dai comportamenti degli acquirenti utilizzando campagne e-mail attivate per interagire con messaggi tempestivi e rilevanti.
+description: Scopri come utilizzare  [!DNL Marketo]  per sfruttare i comportamenti degli acquirenti utilizzando campagne e-mail attivate per interagire con messaggi tempestivi e rilevanti.
 role: User
 level: Beginner
 jira: KT-10762
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Scopri come creare campagne e-mail attivate
 
-Scopri come utilizzare [!DNL Marketo] trarre vantaggio dai comportamenti degli acquirenti utilizzando campagne e-mail attivate per interagire con messaggi tempestivi e rilevanti.
+Scopri come utilizzare [!DNL Marketo] per sfruttare i comportamenti degli acquirenti utilizzando campagne e-mail attivate per interagire con messaggi tempestivi e rilevanti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on){transcript=true}

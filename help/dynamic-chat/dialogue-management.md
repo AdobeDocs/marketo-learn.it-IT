@@ -22,6 +22,6 @@ La progettazione di conversazioni mirate e personalizzate è la chiave per crear
 
 ## Video più utili
 
-* [Aggiungi e gestisci gli utenti di [!UICONTROL Dynamic Chat]](user-management.md)
+* [Aggiungi e gestisci gli utenti del [!UICONTROL Dynamic Chat]](user-management.md)
 * [Attivare l’integrazione Marketo con Dynamic Chat](marketo-integration.md)
 * [Consentire ai lead di prenotare riunioni con il personale di vendita](meeting-booking.md)

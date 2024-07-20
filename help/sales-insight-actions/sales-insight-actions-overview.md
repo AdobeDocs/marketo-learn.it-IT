@@ -21,4 +21,4 @@ Accelera le attività di ricerca di potenziali clienti con strumenti di marketin
 ## Video correlati
 
 * [Configura registrazione attività di vendita in [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
-* [Accesso al [!DNL Sales Insight Actions] Istanza](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [Accesso all&#39;istanza [!DNL Sales Insight Actions] ](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

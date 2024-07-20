@@ -1,5 +1,5 @@
 ---
-title: Come usare [!DNL Marketo] best practice per istanze e programmi
+title: Come utilizzare le  [!DNL Marketo] best practice per istanze e programmi
 description: Scopri come implementare le best practice consigliate da Marketo per programmi e istanze in Marketo.
 role: User
 level: Beginner
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Come usare [!DNL Marketo] best practice per istanze e programmi
+# Come utilizzare le best practice per l&#39;istanza e il programma [!DNL Marketo]
 
 Scopri come implementare le best practice consigliate da Marketo per programmi e istanze in Marketo.
 

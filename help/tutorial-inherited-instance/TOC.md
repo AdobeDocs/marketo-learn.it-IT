@@ -9,8 +9,8 @@ level: Beginner
 auto-video-transcripts: true
 source-git-commit: c2b949e268e66a0d85c251658a49048e451fac1e
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 3%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 3%
 + [Sviluppare una guida alla governance delle istanze](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [Mappa visivamente lo stack tecnologico di marketing](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [Processo di controllo qualità pre-lancio del programma](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [Tutorial su Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
++ [Tutorials Marketi Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)

@@ -1,6 +1,6 @@
 ---
 title: Scopri come creare ed eseguire un programma di webinar
-description: Sei pronto a eseguire un webinar come parte delle attività di marketing? Scopri come funzionano i webinar con [!DNL Marketo Engage] e i relativi partner del webinar su Exchange di Adobe.
+description: Sei pronto a eseguire un webinar come parte delle attività di marketing? Scopri come funzionano i webinar con [!DNL Marketo Engage] e i relativi partner di Adobe Exchange.
 role: User
 level: Beginner
 jira: KT-10758
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Scopri come creare ed eseguire un programma di webinar
 
-Sei pronto a eseguire un webinar come parte delle attività di marketing? Scopri come funzionano i webinar con [!DNL Marketo Engage] e i relativi partner del webinar su Exchange di Adobe.
+Sei pronto a eseguire un webinar come parte delle attività di marketing? Scopri come funzionano i webinar con [!DNL Marketo Engage] e i relativi partner di Adobe Exchange.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on){transcript=true}

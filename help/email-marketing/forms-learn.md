@@ -1,6 +1,6 @@
 ---
 title: Scopri come creare e modificare i moduli
-description: Utilizzare [!DNL Marketo forms] per acquisire progressivamente i dati di una persona quando un potenziale cliente visita il sito web.
+description: Utilizza  [!DNL Marketo forms]  per acquisire progressivamente i dati di una persona quando un potenziale visiterà il tuo sito Web.
 role: User
 level: Beginner
 jira: KT-10755
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Scopri come creare e modificare i moduli
 
-Utilizzare [!DNL Marketo forms] per acquisire progressivamente i dati di una persona quando un potenziale cliente visita il sito web.
+Utilizza [!DNL Marketo forms] per acquisire progressivamente i dati delle persone quando i potenziali visitatori visitano il tuo sito Web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}

@@ -10,12 +10,12 @@ thumbnail: 3425033.jpeg
 exl-id: bbcfe157-47e6-4728-b702-455ffa1deb65
 source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 19%
+source-wordcount: '80'
+ht-degree: 18%
 
 ---
 
-# Presentazione del prodotto di [!UICONTROL Dynamic Chat] [2023]
+# Presentazione del prodotto del [!UICONTROL Dynamic Chat] [2023]
 
 Coinvolgi i tuoi visitatori web con conversazioni personalizzate che genereranno lead, risponderanno alle domande dei visitatori con la potenza di GenAI, indirizzeranno a un agente di vendita e indirizzeranno i lead delle chat attraverso altri canali per stimolare le prenotazioni delle riunioni.
 

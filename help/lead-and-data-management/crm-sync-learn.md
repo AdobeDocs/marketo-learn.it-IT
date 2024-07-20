@@ -1,6 +1,6 @@
 ---
-title: Informazioni sulla sincronizzazione [!DNL Marketo] al tuo CRM
-description: Con [!DNL Marketo] Sincronizzazione CRM, puoi aiutare a coordinare le attività di marketing e di vendita condividendo senza problemi informazioni rilevanti tra [!DNL Marketo] e il tuo CRM. Informazioni sulla sincronizzazione [!DNL Marketo] al tuo CRM.
+title: Scopri come sincronizzare [!DNL Marketo] con il tuo CRM
+description: Con la sincronizzazione di  [!DNL Marketo] CRM, puoi coordinare le attività di marketing e di vendita condividendo senza problemi informazioni rilevanti tra [!DNL Marketo] e il tuo CRM. Scopri come sincronizzare  [!DNL Marketo]  con il tuo sistema CRM.
 role: User
 level: Beginner
 jira: KT-10744
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Informazioni sulla sincronizzazione [!DNL Marketo] al tuo CRM
+# Informazioni sulla sincronizzazione di [!DNL Marketo] con il CRM
 
-Con [!DNL Marketo] Sincronizzazione CRM, puoi aiutare a coordinare le attività di marketing e di vendita condividendo senza problemi informazioni rilevanti tra [!DNL Marketo] e il tuo CRM. Informazioni sulla sincronizzazione [!DNL Marketo] al tuo CRM.
+Con Sincronizzazione CRM di [!DNL Marketo], puoi coordinare le attività di marketing e di vendita condividendo direttamente le informazioni rilevanti tra [!DNL Marketo] e il tuo CRM. Informazioni sulla sincronizzazione di [!DNL Marketo] con il CRM.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345428/?quality=12&learn=on){transcript=true}

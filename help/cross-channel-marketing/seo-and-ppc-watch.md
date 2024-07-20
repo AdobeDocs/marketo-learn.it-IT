@@ -1,5 +1,5 @@
 ---
-title: Come ottimizzare le attività SEO con [!DNL Marketo]
+title: Come ottimizzare le tue attività SEO con  [!DNL Marketo]
 description: Scopri come implementare i passaggi per il successo e creare strategie SEO e PPC vantaggiose.
 role: User
 level: Beginner

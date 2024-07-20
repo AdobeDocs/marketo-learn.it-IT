@@ -26,4 +26,4 @@ Una ricerca rapida consente di accedere a qualsiasi scheda della finestra di pro
 
 * [Anteprima finestra di dialogo](dialogue-preview.md)
 * [Creare e gestire dialoghi personalizzati](dialogue-management.md)
-* [Attivare l’integrazione Marketo con [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Attiva l&#39;integrazione Marketo con [!UICONTROL Dynamic Chat]](marketo-integration.md)

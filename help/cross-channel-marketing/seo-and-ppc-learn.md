@@ -1,5 +1,5 @@
 ---
-title: Scopri come ottimizzare le attività SEO con [!DNL Marketo]
+title: Scopri come ottimizzare le tue attività SEO con  [!DNL Marketo]
 description: Il tuo sito web si sta perdendo in centinaia di risultati di ricerca? Scopri come aumentare la visibilità del tuo marchio migliorando le strategie SEO (Search Engine Optimization) e PPC.
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Scopri come ottimizzare le attività SEO con [!DNL Marketo]
+# Scopri come ottimizzare le tue attività SEO con [!DNL Marketo]
 
 Il tuo sito web si sta perdendo in centinaia di risultati di ricerca? Scopri come aumentare la visibilità del tuo marchio migliorando le strategie SEO (Search Engine Optimization) e PPC.
 

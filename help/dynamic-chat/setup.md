@@ -24,4 +24,4 @@ Una guida per installare chatbot JavaScript sul sito web o sulla pagina di desti
 
 * [Attivare l’integrazione Marketo con Dynamic Chat](marketo-integration.md)
 * [Creare e gestire dialoghi personalizzati](dialogue-management.md)
-* [Aggiungi e gestisci gli utenti di [!UICONTROL Dynamic Chat]](user-management.md)
+* [Aggiungi e gestisci gli utenti del [!UICONTROL Dynamic Chat]](user-management.md)

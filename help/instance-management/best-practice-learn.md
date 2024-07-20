@@ -1,6 +1,6 @@
 ---
-title: Scopri come utilizzare [!DNL Marketo] best practice per istanze e programmi
-description: Segue [!DNL Marketo's] le best practice suggerite per organizzare i programmi e la tua istanza possono aiutare te e i tuoi colleghi a trovare ciò di cui hai bisogno nella tua istanza quando è necessario e possono contribuire a rendere più accurati i rapporti.
+title: Scopri come utilizzare le best practice per istanze e programmi di  [!DNL Marketo]
+description: Seguendo le  [!DNL Marketo's] best practice suggerite per organizzare i programmi e la tua istanza puoi aiutare te e i tuoi colleghi a trovare ciò di cui hai bisogno nella tua istanza quando è necessario e contribuire a rendere più accurati i tuoi rapporti.
 role: User
 level: Beginner
 jira: KT-10736
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Scopri come utilizzare [!DNL Marketo] best practice per istanze e programmi
+# Scopri come utilizzare l&#39;istanza [!DNL Marketo] e le best practice per i programmi
 
-Segue [!DNL Marketo's] le best practice suggerite per organizzare i programmi e la tua istanza possono aiutare te e i tuoi colleghi a trovare ciò di cui hai bisogno nella tua istanza quando è necessario e possono contribuire a rendere più accurati i rapporti.
+Seguendo le [!DNL Marketo's] best practice suggerite per organizzare i programmi e la tua istanza potrai aiutare te e i tuoi colleghi a trovare ciò di cui hai bisogno nella tua istanza quando è necessario e contribuire a rendere più accurati i tuoi rapporti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}
