@@ -1,7 +1,7 @@
 ---
-title: Tutorial di Dynamic Chat
+title: Tutorial su Dynamic Chat
 description: Scopri la chat dinamica su Adobe Experience League. Segui questi tutorial insieme alla documentazione per comprendere meglio come utilizzare la chat dinamica per creare conversazioni personalizzate.
-short-description: Segui questi tutorial insieme alla documentazione del prodotto per comprendere meglio i diversi modi in cui il Dynamic Chat può funzionare per te.
+short-description: Segui questi tutorial insieme alla documentazione per comprendere meglio i vari metodi di Dynamic Chat che ti possono essere utili.
 doc-type: overview-page
 role: User
 level: Beginner
@@ -10,11 +10,11 @@ feature: Dynamic Chat
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '486'
-ht-degree: 6%
+ht-degree: 14%
 
 ---
 
-# Tutorial di Dynamic Chat
+# Tutorial su Dynamic Chat
 
 ![](assets/dynamic-chat-header.png)
 
@@ -28,7 +28,7 @@ Ti diamo il benvenuto nel sito delle esercitazioni di [!UICONTROL Dynamic Chat].
    * **[Pubblica tra 15 minuti](go-live-in-15-minutes.md)**
      *Guida passo passo per passo per iniziare la prima conversazione utilizzando [!UICONTROL Dynamic Chat] in soli 15 minuti!*
 * Configurazione
-   * **[Imposta e installa il tuo chatbot](setup.md)**
+   * **[Configurare e installare il chatbot](setup.md)**
      *Scopri come configurare la sottoscrizione a [!UICONTROL Dynamic Chat].*
    * **[Attiva l&#39;integrazione Marketo con [!UICONTROL Dynamic Chat]](marketo-integration.md)**
      *Conversazioni indirizzate ai visitatori Web e personalizzale con le informazioni del lead provenienti da Marketo.*
@@ -37,7 +37,7 @@ Ti diamo il benvenuto nel sito delle esercitazioni di [!UICONTROL Dynamic Chat].
    * **[Gestione agente](agent-management.md)**
      *Scopri come gestire gli agenti.*
 * Chat automatizzata
-   * **[Crea e gestisci dialoghi personalizzati](dialogue-management.md)**
+   * **[Creare e gestire dialoghi personalizzati](dialogue-management.md)**
      *Scopri come creare un dialogo per coinvolgere rapidamente il visitatore Web con [!UICONTROL Dynamic Chat].*
    * **[Incorpora PDF nelle conversazioni](document-cloud-integration.md)**
      *Condividi documenti PDF nelle conversazioni personalizzate progettate in [!UICONTROL Dynamic Chat].*

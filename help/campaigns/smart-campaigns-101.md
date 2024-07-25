@@ -1,7 +1,7 @@
 ---
-title: Campagne avanzate 101
-description: Scopri come utilizzare le campagne avanzate per la normalizzazione dei dati e gli avvisi automatizzati.
-short-description: Se il Marketo Engage è un'auto, la Smart Campaign ne è il motore. Le campagne intelligenti possono fare più di quanto si possa immaginare ed è facile iniziare a utilizzarle.
+title: Campagne intelligenti 101
+description: Scopri come utilizzare le campagne intelligenti per normalizzare i dati e automatizzare gli avvisi.
+short-description: Se Marketo Engage fosse un’auto, la campagna intelligente ne sarebbe il motore. Le campagne intelligenti possono fare più di quanto si possa immaginare ed è facile iniziare a utilizzarle.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -13,11 +13,11 @@ feature: Smart Campaigns
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 41%
 
 ---
 
-# Campagne avanzate 101
+# Campagne intelligenti 101
 
 Le campagne intelligenti sono il motore di Marketo. Oltre a utilizzare le campagne intelligenti per l’invio di e-mail e programmi, puoi utilizzare le campagne intelligenti per diversi casi d’uso. Scopri come utilizzare le campagne avanzate per la normalizzazione dei dati e gli avvisi automatizzati.
 
