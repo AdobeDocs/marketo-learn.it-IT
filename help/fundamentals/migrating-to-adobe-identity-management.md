@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 820346b8475da5bd0cc5c6652b1cc6367b9fe54e
+source-git-commit: f6caaae707cb4dae45c4f05a895566adc98458e6
 workflow-type: tm+mt
-source-wordcount: '1114'
+source-wordcount: '1115'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Per garantire che la tua organizzazione possa migrare Adobe Marketo Engage a Ado
 
 * Conferma Adobe Admin Console (o l’organizzazione di Adobe) in cui verrà effettuata la migrazione delle sottoscrizioni di Marketo Engage. Probabilmente avete un Adobe Admin Console per il Dynamic Chat, uno strumento nativo di automazione delle conversazioni nel Marketo Engage. Le sottoscrizioni di Marketo Engage devono essere distribuite nella stessa organizzazione di [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)
 
-* Collabora con il tuo team IT per inserire nell&#39;elenco Consentiti tutti i domini Adobi elencati [nella parte superiore di questo articolo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} in modo da evitare interruzioni nell&#39;accesso al Marketo Engage dopo la migrazione a Identità Adobe.
+* Collabora con il tuo team IT per inserire nell&#39;elenco Consentiti tutti i domini Adobi elencati [nella parte superiore di questo articolo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} in modo da evitare interruzioni nell&#39;accesso al Marketo Engage dopo la migrazione a Identità Adobe.
 
 * **Facoltativo:** [Implementare Single Sign On (SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} prima della migrazione utente.
 
