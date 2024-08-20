@@ -3,10 +3,10 @@ title: Tutorial su Marketo Engage
 description: Guarda i tutorial video su [!DNL Marketo Engage]. Scopri di più su cone utilizzare le funzionalità di automazione marketing e altro ancora.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: c7665e7c82e030f5bc21fa9c8845a75fc47f8483
+source-git-commit: fe4fc30478e83625c345c51b96a6867264953e83
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 21%
+ht-degree: 17%
 
 ---
 
@@ -25,15 +25,12 @@ Sfoglia la libreria dei tutorial e sfrutta al massimo [!DNL Marketo Engage]. Que
 ## Novità {#whats-new}
 
 * [Migrazione ad Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
+  _Scopri come navigare nella migrazione Identity Management di Adobe in modo da poter iniziare a gestire Adobe Marketo Engage insieme ad altri account e prodotti Adobe per i tuoi utenti da una posizione centrale._
 
-_Scopri come navigare nella migrazione Identity Management di Adobe in modo da poter iniziare a gestire Adobe Marketo Engage insieme ad altri account e prodotti Adobe per i tuoi utenti da una posizione centrale._
-
-* [Pubblicazione delle informazioni e azioni sull’evento dei webinar interattivi](https://experienceleague.adobe.com/it/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-
+* [Webinar interattivi: approfondimenti sull&#39;evento e azioni](https://experienceleague.adobe.com/it/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
 Scopri dove trovare informazioni dettagliate sulle prestazioni e sul coinvolgimento dell’evento dei webinar interattivi.
 
 * [Video API di Marketo - Come impostare il token di accesso in una variabile](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-
 Scopri come configurare l’applicazione Postman e come sfruttare le variabili per salvare i dati nella variabile a scopo di riutilizzabilità.
 
 ## Video più popolari {#most-popular-videos}
