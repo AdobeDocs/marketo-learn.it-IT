@@ -3,22 +3,22 @@ title: 'Marketo Video sull’API: come impostare il token di accesso in una vari
 description: Scopri come configurare l’applicazione Postman e come sfruttare le variabili per salvare i dati nella variabile a scopo di riutilizzabilità.
 feature: REST API
 role: Admin, Developer
-level: Beginner
+level: Advanced
 doc-type: Technical Video
 duration: 772
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15548
-source-git-commit: dfe4f1d9737cb0c69bbd96aedf6c61953315fa9b
+exl-id: 4da86ed6-1072-4e0e-a648-16587badaeb3
+source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 0%
+ht-degree: 24%
 
 ---
 
-
 # Guida API: come impostare il token di accesso in una variabile
 
-Scopri come configurare l’applicazione Postman e sfruttare le variabili per salvare i dati nella variabile a scopo di riutilizzabilità. Scoprirai anche come effettuare la prima chiamata API REST di Marketo Engage per ottenere il token di accesso.
+Scopri come configurare l’applicazione Postman e utilizzare le variabili per salvare i dati nella variabile per riutilizzarli. Scoprirai anche come effettuare la prima chiamata API REST di Marketo Engage per ottenere il token di accesso.
 
 >[!PREREQUISITES]
 >

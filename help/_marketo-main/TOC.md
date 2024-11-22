@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
 auto-video-transcripts: true
-source-git-commit: d74cf4ad845a6f7e65a0d8729c296f6c7d46bdaa
+source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '377'
 ht-degree: 9%
 
 ---
@@ -66,7 +66,6 @@ ht-degree: 9%
    + [SEO e PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
    + [Procedura dettagliata per SEO e PPC](/help/cross-channel-marketing/seo-and-ppc-watch.md)
    + [Social marketing](/help/cross-channel-marketing/social-marketing-learn.md)
-   + [Procedura dettagliata per il social marketing](/help/cross-channel-marketing/social-marketing-watch.md)
    + [Personalizzazione web](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Procedura dettagliata per la personalizzazione web](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -121,7 +120,6 @@ ht-degree: 9%
    + [Webinar interattivi Pubblica informazioni e azioni sull’evento](/help/events/interactive-webinars-post-event-insights-and-actions.md)
    + [Webinar on demand](/help/events/on-demand-webinars.md)
 + Reporting e analisi {#reporting}
-   + [Reporting e analisi](/help/reporting/reporting-and-analytics.md)
    + [Rapporti chiave](/help/reporting/key-reports.md)
 + Integrazioni {#integrations}
    + [Marketo con Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=it)
