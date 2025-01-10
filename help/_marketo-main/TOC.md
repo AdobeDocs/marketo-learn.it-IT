@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
+source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 9%
+source-wordcount: '430'
+ht-degree: 8%
 
 ---
 
@@ -121,3 +121,16 @@ ht-degree: 9%
 + Integrazioni {#integrations}
    + [Marketo con Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=it)
    + [Guida API: come impostare il token di accesso in una variabile](/help/integrations/api-set-access-token-variable.md)
++ Gestione dei duplicati {#manage-duplicates}
+   + [Introduzione alla gestione dei duplicati](/help/managing-duplicates/introduction-managing-duplicates.md)
+   + [Capire perché si verificano duplicati](/help/managing-duplicates/why-duplicates-occur.md)
+   + [Identificare e impedire record duplicati](/help/managing-duplicates/identify-prevent-duplicates.md)
+   + [Determinare quando sono necessari record duplicati](/help/managing-duplicates/determine-necessary-duplicates.md)
+   + [Unione manuale dei record duplicati](/help/managing-duplicates/merge-manually.md)
+   + [Unione in blocco di duplicati parte 1](/help/managing-duplicates/bulk-merge-part-1.md)
+   + [Unione in blocco di duplicati parte 2](/help/managing-duplicates/bulk-merge-part-2.md)
+   + [Unione in blocco di duplicati parte 3](/help/managing-duplicates/bulk-merge-part-3.md)
+   + [Gestione automatizzata dei duplicati - Parte 1](/help/managing-duplicates/automate-integration-part-1.md)
+   + [Gestione automatizzata dei duplicati - Parte 2](/help/managing-duplicates/automate-integration-part-2.md)
+   + [Gestione semplificata dei duplicati](/help/managing-duplicates/simplify-acs.md)
+   + [Scegli la strategia migliore per la gestione dei duplicati](/help/managing-duplicates/duplicate-strategy.md)
