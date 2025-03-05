@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
 auto-video-transcripts: true
-source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
+source-git-commit: b1bca74399683782c4691882f2239db60d117286
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 8%
+source-wordcount: '439'
+ht-degree: 7%
 
 ---
 
@@ -84,6 +84,7 @@ ht-degree: 8%
    + [SDK conversazioni](/help/dynamic-chat/conversations-sdk.md)
    + [Flussi riutilizzabili](/help/dynamic-chat/reusable-flows.md)
    + [Pagine di destinazione conversazionali](/help/dynamic-chat/conversational-landing-pages.md)
+   + [Best practice per implementare la chat in tempo reale](/help/dynamic-chat/live-chat-best-practices.md)
    + [Connettere i visitatori agli agenti live](/help/dynamic-chat/connect-visitors-to-live-agents.md)
    + [Prenotazioni riunioni](/help/dynamic-chat/meeting-booking.md)
    + [Incentivare le conversazioni basate su GenAI](/help/dynamic-chat/gen-ai-features.md)
