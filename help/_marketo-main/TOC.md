@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
 auto-video-transcripts: true
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 7%
+source-wordcount: '454'
+ht-degree: 9%
 
 ---
 
@@ -89,12 +89,12 @@ ht-degree: 7%
    + [Prenotazioni riunioni](/help/dynamic-chat/meeting-booking.md)
    + [Incentivare le conversazioni basate su GenAI](/help/dynamic-chat/gen-ai-features.md)
    + [Rapporto sul coinvolgimento](/help/dynamic-chat/engagement-report.md)
-+ Azioni approfondimento vendite {#sales-insight-actions}
++ Azioni Insight vendite {#sales-insight-actions}
    + [Panoramica](/help/sales-insight-actions/overview.md)
-   + [Panoramica delle azioni di approfondimento sulle vendite](/help/sales-insight-actions/sales-insight-actions-overview.md)
-   + [Accesso all’istanza delle azioni di approfondimento sulle vendite](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
+   + [Panoramica delle azioni di Sales Insight](/help/sales-insight-actions/sales-insight-actions-overview.md)
+   + [Accesso all’istanza delle azioni Insight per le vendite](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Configura registrazione attività di vendita in [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
-+ Gestione dati e lead {#lead-and-data-management}
++ Gestione di lead e dati {#lead-and-data-management}
    + [Punteggio lead/persona](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Procedura dettagliata per punteggio lead/persona](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Centro sottoscrizioni](/help/lead-and-data-management/subscription-center-learn.md)
@@ -123,6 +123,7 @@ ht-degree: 7%
 + Integrazioni {#integrations}
    + [Marketo con Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=it)
    + [Guida API: come impostare il token di accesso in una variabile](/help/integrations/api-set-access-token-variable.md)
+   + [Come attivare una campagna avanzata in Marketo Engage utilizzando l’API REST e i token](/help/integrations/trigger-smart-campaign-rest-api.md)
 + Gestione dei duplicati {#manage-duplicates}
    + [Introduzione alla gestione dei duplicati](/help/managing-duplicates/introduction-managing-duplicates.md)
    + [Capire perché si verificano duplicati](/help/managing-duplicates/why-duplicates-occur.md)
