@@ -4,7 +4,7 @@ description: Scopri come attivare una campagna avanzata in Marketo Engage utiliz
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 0%
@@ -54,13 +54,13 @@ You're registered for **{{my.WebinarTitle}}**.
 Join here: {{my.JoinLink}}
 ```
 
+Se utilizzi un token per inserire dinamicamente un URL immagine (ad esempio, `{{my.WebinarImage}}`), devi racchiudere il token in un tag immagine HTML:
+
+```html
+<img src="{{my.WebinarImage}}" alt="Webinar banner" />
+```
+
 >[!IMPORTANT]
->
->Se utilizzi un token per inserire dinamicamente un URL immagine (ad esempio, `{{my.WebinarImage}}`), devi racchiudere il token in un tag immagine HTML:
->
-> ```html
-> <img src="{{my.WebinarImage}}" alt="Webinar banner" />
-> ```
 >
 >Marketo Enagage **non** eseguirà il rendering dell&#39;immagine a meno che il token non venga inserito all&#39;interno di un tag immagine valido.
 
