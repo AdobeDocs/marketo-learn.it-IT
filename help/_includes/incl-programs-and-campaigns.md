@@ -15,8 +15,8 @@ I programmi rappresentano una singola iniziativa di marketing. Scopri come sfrut
 
 Per ulteriori informazioni, consulta le relative guide del prodotto:
 
-* [Informazioni sulla documentazione dei programmi](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
-* [Informazioni sulla documentazione delle campagne avanzate](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [Informazioni sulla documentazione dei programmi](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=it)
+* [Informazioni sulla documentazione delle campagne avanzate](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=it)
 
 Scopri dai tuoi colleghi come utilizzare le campagne avanzate:
 

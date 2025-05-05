@@ -24,4 +24,4 @@ Scopri come creare un programma per eventi fiere basato su un programma predefin
 
 Per ulteriori informazioni su come creare un programma evento, consulta la guida del prodotto:
 
-* [Crea una nuova documentazione del programma eventi](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
+* [Crea una nuova documentazione del programma eventi](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=it)

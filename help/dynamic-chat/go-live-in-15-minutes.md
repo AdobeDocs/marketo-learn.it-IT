@@ -20,4 +20,4 @@ Una guida dettagliata per iniziare a utilizzare la tua prima finestra di dialogo
 
 >[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){transcript=true}
 
-*Nota: per coloro che non sanno come accedere a [!UICONTROL Dynamic Chat] , [ecco un breve video](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=en) per aiutarti ad aggiungere te stesso o altri utenti a [!UICONTROL Dynamic Chat] .*
+*Nota: per coloro che non sanno come accedere a [!UICONTROL Dynamic Chat] , [ecco un breve video](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=it) per aiutarti ad aggiungere te stesso o altri utenti a [!UICONTROL Dynamic Chat] .*

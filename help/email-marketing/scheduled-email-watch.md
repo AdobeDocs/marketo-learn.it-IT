@@ -24,4 +24,4 @@ Scopri come creare, gestire e tenere traccia di un programma e-mail pianificato.
 
 Per ulteriori informazioni sui programmi e-mail, consulta la guida del prodotto:
 
-* [Documentazione sui programmi e-mail](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [Documentazione sui programmi e-mail](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=it)
