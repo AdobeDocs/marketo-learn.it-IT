@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Quando inizi a lavorare con il Marketo Engage, l’organizzazione è fondamentale. Mantenere l’organizzazione nella tua istanza consente a te e ai tuoi colleghi di tenere traccia facilmente di campagne, programmi e risorse. Scopri come organizzare la struttura di navigazione in [!UICONTROL Attività di marketing] utilizzando cartelle, convenzioni di denominazione standard e funzionalità quali la clonazione per lavorare facilmente con i tuoi colleghi in una nuova istanza di [!DNL Marketo Engage]. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422764/?learn=on&captions=ita){transcript=true}
 
 ## Risorse aggiuntive
 

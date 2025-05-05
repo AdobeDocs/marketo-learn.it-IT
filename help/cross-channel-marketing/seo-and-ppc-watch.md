@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come implementare i passaggi per il successo e creare strategie SEO e PPC vantaggiose.
 
->[!VIDEO](https://video.tv.adobe.com/v/345400/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413407/?quality=12&learn=on&captions=ita){transcript=true}

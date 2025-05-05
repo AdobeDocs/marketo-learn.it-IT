@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri dove trovare informazioni dettagliate sulle prestazioni e sul coinvolgimento dell’evento dei webinar interattivi consegnato. Scopri le azioni per segmentare, valutare e coltivare lead/partecipanti in modo personalizzato in base alle informazioni sul coinvolgimento e all’intento raccolti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429641/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447856/?learn=on&captions=ita)

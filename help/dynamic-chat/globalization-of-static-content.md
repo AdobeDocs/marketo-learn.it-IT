@@ -20,7 +20,7 @@ ht-degree: 0%
 
 È possibile che tu sappia già come creare una finestra di dialogo non inglese (in caso contrario, [fai clic qui](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}). Puoi personalizzare il contenuto statico/di sistema nella lingua desiderata.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3439222/?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Video più utili
 

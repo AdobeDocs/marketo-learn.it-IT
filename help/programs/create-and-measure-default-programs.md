@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come creare e misurare il successo dei programmi predefiniti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419623/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424476/?learn=on&captions=ita){transcript=true}

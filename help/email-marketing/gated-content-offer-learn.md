@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Guardare alcuni dei tuoi contenuti migliori come strategia di marketing dei contenuti ti aiuterà a generare lead e scoprire quale dei tuoi visitatori è serio. Scopri i contenuti gestiti, come funziona e i passaggi per il successo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345464/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412225/?quality=12&learn=on&captions=ita){transcript=true}

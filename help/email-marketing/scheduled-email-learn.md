@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Preparati a coinvolgere i clienti come singoli utenti nel tuo marketing via e-mail. Scopri come inviare messaggi convincenti rilevanti per il pubblico e misurare il ROI delle campagne e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/345466/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412020/?quality=12&learn=on&captions=ita){transcript=true}

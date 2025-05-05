@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Crea un programma del ciclo di vita di [!UICONTROL persona] che tiene traccia dei lead utilizzando gli stati del programma e agisce sui lead pronti per la vendita.
 
->[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412250/?quality=12&learn=on&captions=ita){transcript=true}

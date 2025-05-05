@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Le funzioni di test A/B integrato di Marketo possono aiutarti a prendere decisioni basate sui dati per migliorare l’efficacia delle e-mail sottoponendo a test elementi come l’oggetto, il giorno della settimana e l’ora del giorno, l’indirizzo &quot;da&quot; e altro ancora. Scopri come utilizzare il test A/B delle e-mail in Marketo per migliorare le prestazioni delle e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/345483/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411459/?quality=12&learn=on&captions=ita){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come distribuire il tuo evento di webinar interattivi in modo ottimale per raggiungere il tuo obiettivo e coinvolgere i partecipanti. Assicurati che i contenuti generino interesse, in modo da poter sollecitare intenti attraverso diversi strumenti di coinvolgimento per contribuire a una migliore crescita personalizzata e segmentazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429638/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440045/?learn=on&captions=ita)

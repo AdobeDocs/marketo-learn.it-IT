@@ -26,4 +26,4 @@ Questa funzione è ideale per:
 * Assicurati di parlare sempre con gli allevatori
 * Offerta dopo la compilazione del modulo o durante la conversazione chat automatica
 
->[!VIDEO](https://video.tv.adobe.com/v/3424828/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452066/?learn=on&captions=ita)

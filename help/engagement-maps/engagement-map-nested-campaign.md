@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri come decifrare campagne interconnesse e profondamente nidificate per ottenere una migliore visibilità nell’intero percorso di clienti utilizzando Engagement Map.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423297/?learn=on&captions=ita){transcript=true}

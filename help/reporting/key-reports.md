@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Scopri i rapporti chiave all’interno del Marketo Engage e come estrarli.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432183/?learn=on&captions=ita){transcript=true}
 
 ## Risorse aggiuntive
 

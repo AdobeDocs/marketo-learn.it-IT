@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Fornisci un’esperienza personale e rilevante a ogni visitatore del sito web in base a chi è e a cosa fa. Scopri come segmentare e indirizzare i visitatori del tuo sito web per creare esperienze più personalizzate, significative e coinvolgenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/345405/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413417/?quality=12&learn=on&captions=ita){transcript=true}

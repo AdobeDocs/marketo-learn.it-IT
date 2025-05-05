@@ -26,4 +26,4 @@ Casi che puoi sbloccare:
 - Contenuto consigliato in base alle scelte/interessi dei visitatori
 - Condividere documenti e tenere traccia del coinvolgimento
 
->[!VIDEO](https://video.tv.adobe.com/v/3429414/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445109/?learn=on&captions=ita)

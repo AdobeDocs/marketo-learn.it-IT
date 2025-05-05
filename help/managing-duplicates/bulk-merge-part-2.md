@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come ordinare e consolidare i record duplicati in Excel utilizzando formule e best practice per le importazioni di elenchi non crittografati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429492/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449686/?learn=on&enablevpops&captions=ita)

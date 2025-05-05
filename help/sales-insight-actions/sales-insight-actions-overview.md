@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Accelera le attività di ricerca di potenziali clienti con strumenti di marketing e coinvolgimento riuniti in un unico flusso di lavoro utilizzando le azioni di approfondimento sulle vendite.
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447253/?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Video correlati
 

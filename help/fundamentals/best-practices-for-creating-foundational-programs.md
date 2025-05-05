@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Comprendi i quattro tipi di programmi, come importare programmi, programmi con punteggio lead/persona e come definire i tag di canale. Scopri i casi d’uso comuni e le best practice.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422756/?learn=on&captions=ita){transcript=true}
 
 ## Risorse aggiuntive
 

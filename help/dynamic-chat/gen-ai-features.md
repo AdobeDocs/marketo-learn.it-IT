@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Scopri come promuovere le conversazioni basate su GenAI e consentire ai visitatori di porre domande, ottenere risposte rapide e generare un riepilogo per le conversazioni. Sfrutta gli approfondimenti conversazionali direttamente nelle istanze Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429153/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454479/?learn=on&captions=ita)

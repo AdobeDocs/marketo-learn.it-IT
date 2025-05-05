@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Non sei sicuro di come utilizzare al meglio il social marketing? Scopri come aumentare in modo efficace la consapevolezza del brand e sviluppare il brand engagement utilizzando il tuo canale social.
 
->[!VIDEO](https://video.tv.adobe.com/v/345407/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412042/?quality=12&learn=on&captions=ita){transcript=true}

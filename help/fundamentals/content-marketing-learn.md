@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Attira, acquisisci e coinvolgi il tuo pubblico sviluppando una strategia di marketing dei contenuti. Scopri i passaggi chiave per il successo, tra cui l’ottimizzazione e la misurazione dell’impatto dei contenuti.
 
->[!VIDEO](https://video.tv.adobe.com/v/345417/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413387/?quality=12&learn=on&captions=ita){transcript=true}

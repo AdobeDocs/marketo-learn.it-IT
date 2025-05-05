@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri le autorizzazioni degli utenti per i webinar interattivi, nonché la disponibilità delle licenze e il monitoraggio dei limiti di utilizzo per le licenze dei webinar interattivi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446124/?learn=on&captions=ita)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Utilizza [!DNL Marketo forms] per acquisire progressivamente i dati delle persone quando i potenziali visitatori visitano il tuo sito Web.
 
->[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411673/?quality=12&learn=on&captions=ita){transcript=true}

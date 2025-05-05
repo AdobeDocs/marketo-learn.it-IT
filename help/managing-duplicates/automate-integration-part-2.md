@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come impostare mappature dei campi, logica di unione e pianificazione per automatizzare la gestione dei duplicati tra gli strumenti di Marketo Engage e iPaaS. Questa dimostrazione video del flusso di lavoro utilizza Vertify come esempio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453815/?learn=on&enablevpops&captions=ita)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri in che modo i servizi professionali di Adobe possono contribuire alla gestione dei record duplicati con un approccio senza problemi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429501/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436792/?learn=on&enablevpops&captions=ita)

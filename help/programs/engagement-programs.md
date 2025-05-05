@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Segui questo tutorial per creare il tuo primo programma di coinvolgimento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419374/?learn=on){transcript=true} 
+>[!VIDEO](https://video.tv.adobe.com/v/3452687/?learn=on&captions=ita){transcript=true} 
 
 ## Risorse aggiuntive:
 

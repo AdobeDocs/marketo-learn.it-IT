@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Una guida per installare chatbot JavaScript sul sito web o sulla pagina di destinazione e personalizzarne l’aspetto per il tuo marchio.
 
->[!VIDEO](https://video.tv.adobe.com/v/340257/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345022/?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Video più utili
 

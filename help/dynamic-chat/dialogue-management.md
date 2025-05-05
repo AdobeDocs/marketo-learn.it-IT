@@ -18,7 +18,7 @@ ht-degree: 0%
 
 La progettazione di conversazioni mirate e personalizzate è la chiave per creare un’esperienza di conversazione eccellente per ogni visitatore web. Scopri come creare e gestire un dialogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443802/?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Video più utili
 

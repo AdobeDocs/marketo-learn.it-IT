@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Il tuo sito web si sta perdendo in centinaia di risultati di ricerca? Scopri come aumentare la visibilità del tuo marchio migliorando le strategie SEO (Search Engine Optimization) e PPC.
 
->[!VIDEO](https://video.tv.adobe.com/v/345401/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413402/?quality=12&learn=on&captions=ita){transcript=true}

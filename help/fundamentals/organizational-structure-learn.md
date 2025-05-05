@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Per vincere nell’attuale panorama del marketing digitale in continua evoluzione, hai bisogno di un team in grado di rispondere alle sfide in continua evoluzione che gli esperti di marketing si trovano ad affrontare ogni giorno. Scopri come strutturare l’organizzazione di marketing per affrontare le nuove sfide, i tipi di persone necessari nel team e come posizionare al meglio il marketing per portare la tua organizzazione nell’economia del coinvolgimento.
 
->[!VIDEO](https://video.tv.adobe.com/v/345416/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413392/?quality=12&learn=on&captions=ita){transcript=true}

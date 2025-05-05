@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come implementare i processi tra te e i tuoi abbonati configurando e gestendo il tuo centro abbonamenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/345427/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412235/?quality=12&learn=on&captions=ita){transcript=true}

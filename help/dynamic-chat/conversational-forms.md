@@ -22,4 +22,4 @@ Ora, coinvolgi i visitatori del tuo sito web subito dopo aver compilato un modul
 
 Nel nostro video, ti guideremo attraverso il processo, semplificando l’implementazione di questo potente strumento per la tua azienda.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443364/?learn=on&captions=ita)

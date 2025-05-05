@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Sfrutta il coinvolgimento in persona nei programmi di marketing per eventi per creare relazioni, generare avviamento e guadagnare la fiducia di potenziali acquirenti e clienti.
 
->[!VIDEO](https://video.tv.adobe.com/v/345472/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411683/?quality=12&learn=on&captions=ita){transcript=true}

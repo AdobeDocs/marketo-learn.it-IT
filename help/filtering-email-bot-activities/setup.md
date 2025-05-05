@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Una guida per abilitare l’identificazione delle attività e-mail per bot e su come filtrare e creare campagne escludendo i bot.
 
->[!VIDEO](https://video.tv.adobe.com/v/341158/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445120/?quality=12&learn=on&captions=ita){transcript=true}

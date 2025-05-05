@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!UICONTROL Il Dynamic Chat] è integrato in modo nativo in [!DNL Marketo Engage], che consente di utilizzare il contesto delle conversazioni chatbot per il retargeting o la valutazione dei potenziali clienti.
 
->[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345047/?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Video più utili
 

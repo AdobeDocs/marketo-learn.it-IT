@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Desideri accertarti che il marketing dei contenuti coinvolga potenziali acquirenti e generi lead? La creazione di utenti tipo ti aiuterà a determinare il tipo di contenuto necessario e il modo in cui gli acquirenti potranno trovare e utilizzare le informazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/345415/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413397/?quality=12&learn=on&captions=ita){transcript=true}

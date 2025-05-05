@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Completa l’unione in blocco reimportando i dati puliti nel Marketo Engage e gestendo i duplicati in modo efficace con una campagna operativa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429488/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452755/?learn=on&enablevpops&captions=ita)

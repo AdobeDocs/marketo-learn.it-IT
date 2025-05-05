@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Quando tutte le tue attività di marketing si inseriranno in una strategia che supporta gli obiettivi dell’organizzazione, potrai dimostrare meglio il valore dei programmi e delle campagne. Scopri come centralizzare le attività sviluppando gli obiettivi e la strategia di marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/345419/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413382/?quality=12&learn=on&captions=ita){transcript=true}

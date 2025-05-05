@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come utilizzare [!DNL Marketo] per sfruttare i comportamenti degli acquirenti utilizzando campagne e-mail attivate per interagire con messaggi tempestivi e rilevanti.
 
->[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411488/?quality=12&learn=on&captions=ita){transcript=true}

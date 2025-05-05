@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Dai un’occhiata ai vari elementi di un programma di eventi di webinar interattivi e scopri le azioni da intraprendere per perfezionarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450088/?learn=on&captions=ita)

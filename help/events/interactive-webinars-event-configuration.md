@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come configurare l’evento dei webinar interattivi prima della consegna in modo che sia adatto all’obiettivo del webinar e che la consegna sia sufficientemente efficace da coinvolgere i partecipanti per generare interesse e sollecitare intenti per il brand, il prodotto e i servizi. ecc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448992/?learn=on&captions=ita)

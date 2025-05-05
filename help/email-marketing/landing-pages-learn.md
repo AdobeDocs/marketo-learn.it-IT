@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Aumenta le conversioni creando e progettando pagine di destinazione che incorporano best practice.
 
->[!VIDEO](https://video.tv.adobe.com/v/345468/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412010/?quality=12&learn=on&captions=ita){transcript=true}

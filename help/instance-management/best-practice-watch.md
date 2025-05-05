@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Scopri come implementare le best practice consigliate da Marketo per programmi e istanze in Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345421/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412260/?quality=12&learn=on&captions=ita){transcript=true}

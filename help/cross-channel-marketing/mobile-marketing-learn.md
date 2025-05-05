@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Con l&#39;attuale inondazione di tecnologia, il mobile marketing è una delle strategie più imperative da utilizzare. Scopri come sviluppare relazioni con gli acquirenti creando connessioni personali e in tempo reale tramite la comodità dei dispositivi mobili.
 
->[!VIDEO](https://video.tv.adobe.com/v/345403/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411688/?quality=12&learn=on&captions=ita){transcript=true}

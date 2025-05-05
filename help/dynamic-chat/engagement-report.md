@@ -20,7 +20,7 @@ ht-degree: 7%
 
 Scopri le tendenze di coinvolgimento dei visitatori web con il tuo dialogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437708/?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Video più utili
 

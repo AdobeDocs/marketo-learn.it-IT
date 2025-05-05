@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come ottimizzare il recapito messaggi e-mail tramite best practice, autenticazione e reputazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/345482/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411473/?quality=12&learn=on&captions=ita){transcript=true}

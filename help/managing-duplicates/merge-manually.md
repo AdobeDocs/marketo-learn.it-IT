@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come unire manualmente i duplicati nella sezione Database, perfetta per gestire un numero inferiore di record con precisione e controllo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429491/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443658/?learn=on&enablevpops&captions=ita)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Visualizzare l’anteprima della finestra di dialogo prima di pubblicarla è molto semplice con la funzione Anteprima finestra di dialogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416923/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436866/?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Video più utili
 

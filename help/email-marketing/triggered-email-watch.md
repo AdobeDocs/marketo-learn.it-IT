@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come creare una campagna intelligente attivata.
 
->[!VIDEO](https://video.tv.adobe.com/v/345480/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411483/?quality=12&learn=on&captions=ita){transcript=true}

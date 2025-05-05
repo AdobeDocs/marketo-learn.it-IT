@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Seguendo le [!DNL Marketo's] best practice suggerite per organizzare i programmi e la tua istanza potrai aiutare te e i tuoi colleghi a trovare ciò di cui hai bisogno nella tua istanza quando è necessario e contribuire a rendere più accurati i tuoi rapporti.
 
->[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413376/?quality=12&learn=on&captions=ita){transcript=true}

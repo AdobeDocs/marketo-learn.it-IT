@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Esplora strumenti e suggerimenti per individuare i duplicati e prevenirli con flussi di lavoro strutturati e audit periodici.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429500/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447106/?learn=on&enablevpops&captions=ita)

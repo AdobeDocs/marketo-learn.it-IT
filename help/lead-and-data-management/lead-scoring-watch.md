@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come creare un programma operativo di punteggio lead/persona, utilizzare i token nella campagna e importare campagne predefinite.
 
->[!VIDEO](https://video.tv.adobe.com/v/345425/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412240/?quality=12&learn=on&captions=ita){transcript=true}

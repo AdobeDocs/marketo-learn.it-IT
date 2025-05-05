@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri come Engagement Map aiuta a risolvere rapidamente i problemi delle campagne
 
->[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423288/?learn=on&captions=ita){transcript=true}

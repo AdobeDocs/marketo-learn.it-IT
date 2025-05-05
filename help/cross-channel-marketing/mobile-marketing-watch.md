@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come creare gli utenti tipo buyer, impostare i KPI, determinare la cadenza delle comunicazioni, utilizzare il calendario di marketing [!DNL Marketo] e altro ancora per migliorare la tua strategia di mobile marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413412/?quality=12&learn=on&captions=ita){transcript=true}

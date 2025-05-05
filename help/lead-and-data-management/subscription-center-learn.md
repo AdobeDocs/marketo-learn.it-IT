@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Hai difficoltà a comunicare con i tuoi abbonati? Lasciate che vi comunichino quali comunicazioni desiderano e con quale frequenza desiderano sentirvi parlare. Scopri come creare e gestire un centro di abbonamento per sviluppare una cadenza e un processo appropriati.
 
->[!VIDEO](https://video.tv.adobe.com/v/345426/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412230/?quality=12&learn=on&captions=ita){transcript=true}

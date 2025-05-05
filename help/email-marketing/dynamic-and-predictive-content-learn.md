@@ -18,4 +18,4 @@ ht-degree: 0%
 
 La distribuzione di contenuti rilevanti è una delle idee più importanti nel marketing. Scopri come utilizzare la funzione IA per la gestione dei contenuti di Marketo e come applicare i contenuti dinamici quando lavori con Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345485/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411449/?quality=12&learn=on&captions=ita){transcript=true}

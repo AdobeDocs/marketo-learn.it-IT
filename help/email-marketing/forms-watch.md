@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come creare, progettare e organizzare moduli che includono la profilazione progressiva.
 
->[!VIDEO](https://video.tv.adobe.com/v/345475/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411668/?quality=12&learn=on&captions=ita){transcript=true}
