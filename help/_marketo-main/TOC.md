@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
 auto-video-transcripts: true
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: 1f7221f18b629fb5a9ea7d9aa907ac847ff01c50
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 9%
+source-wordcount: '470'
+ht-degree: 8%
 
 ---
 
@@ -17,18 +17,22 @@ ht-degree: 9%
 + Nozioni di base {#fundamentals}
    + [Obiettivi e strategia](/help/fundamentals/goals-and-strategy-learn.md)
    + [Struttura organizzativa](/help/fundamentals/organizational-structure-learn.md)
-   + [Migrazione ad Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Content marketing](/help/fundamentals/content-marketing-learn.md)
    + [Persone dell&#39;acquirente](/help/fundamentals/buyer-personas-learn.md)
+   + [Elenchi smart](/help/fundamentals/smart-lists.md)
+   + [Elenchi statici](/help/fundamentals/static-lists.md)
    + [Programmi e campagne](/help/fundamentals/programs-and-campaigns.md)
+   + [Migrazione ad Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Best practice per organizzare una nuova istanza](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Best practice per la creazione di programmi fondamentali](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personalizzare con i token](/help/personalization/personalize-with-tokens.md)
-   + [Implementare una nuova istanza - Esercitazione](https://experienceleague.adobe.com/it/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Implementare una nuova istanza - Esercitazione](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [Controllo di un&#39;istanza ereditata - Tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=it)
 + Programmi e campagne {#programs-and-campaigns}
    + [Informazioni su programmi e campagne](/help/programs/understanding-programs-and-campaigns.md)
+   + [Comprendere l’iscrizione al programma](/help/programs/understanding-program-membership.md)
    + [Campagne intelligenti 101](/help/campaigns/smart-campaigns-101.md)
+   + [Introduzione a canali, tag e costi del periodo](/help/campaigns/channels-tags-period-costs.md)
    + [Programmi evento](/help/programs/event-programs.md)
    + Programmi predefiniti {#default-programs}
       + [Creare e misurare un programma predefinito](/help/programs/create-and-measure-default-programs.md)
@@ -95,8 +99,9 @@ ht-degree: 9%
    + [Accesso all’istanza delle azioni Insight per le vendite](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Configura registrazione attività di vendita in [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Gestione di lead e dati {#lead-and-data-management}
+   + [Informazioni sul punteggio](/help/lead-and-data-management/understanding-scoring.md)
    + [Punteggio lead/persona](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [Procedura dettagliata per punteggio lead/persona](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [Procedura dettagliata per il punteggio lead/persona](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Centro sottoscrizioni](/help/lead-and-data-management/subscription-center-learn.md)
    + [Procedura dettagliata per il centro abbonamenti](/help/lead-and-data-management/subscription-center-watch.md)
    + [Sincronizzazione CRM](/help/lead-and-data-management/crm-sync-learn.md)
