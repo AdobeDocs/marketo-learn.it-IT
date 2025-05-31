@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Ulteriori informazioni sulle persone e sulla loro relazione con un programma specifico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463189/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463200/?learn=on&enablevpops&captions=ita)

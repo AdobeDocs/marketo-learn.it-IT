@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come trovare gruppi specifici di persone utilizzando filtri semplici tramite elenchi avanzati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463190/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463211/?learn=on&enablevpops&captions=ita)

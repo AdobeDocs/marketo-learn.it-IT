@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come assegnare un punteggio alle persone/ai lead per valutare il loro coinvolgimento con i contenuti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463192/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463244/?learn=on&enablevpops&captions=ita)
