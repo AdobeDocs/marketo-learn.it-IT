@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
 auto-video-transcripts: true
-source-git-commit: f5e642f54afb279cab8cd8084d5eed60faa7933c
+source-git-commit: 543139a4013eedcea421bb7eeebea4bb683957a1
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 8%
+source-wordcount: '501'
+ht-degree: 9%
 
 ---
 
@@ -19,24 +19,34 @@ ht-degree: 8%
    + [Struttura organizzativa](/help/fundamentals/organizational-structure-learn.md)
    + [Content marketing](/help/fundamentals/content-marketing-learn.md)
    + [Persone dell&#39;acquirente](/help/fundamentals/buyer-personas-learn.md)
-   + [Elenchi smart](/help/fundamentals/smart-lists.md)
+   + [Elenchi avanzati](/help/fundamentals/smart-lists.md)
    + [Elenchi statici](/help/fundamentals/static-lists.md)
+   + [Risorse](/help/fundamentals/assets.md)
+   + [Panoramica dei token](/help/fundamentals/tokens-overview.md)
+   + [Personalizzare con i token](/help/personalization/personalize-with-tokens.md)
    + [Programmi e campagne](/help/fundamentals/programs-and-campaigns.md)
    + [Migrazione ad Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Best practice per organizzare una nuova istanza](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Best practice per la creazione di programmi fondamentali](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [Personalizzare con i token](/help/personalization/personalize-with-tokens.md)
-   + [Implementare una nuova istanza - Esercitazione](https://experienceleague.adobe.com/it/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Implementare una nuova istanza - Esercitazione](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [Controllo di un&#39;istanza ereditata - Tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=it)
 + Programmi e campagne {#programs-and-campaigns}
+   + [Informazioni sui programmi](/help/programs/understanding-programs.md)
    + [Informazioni su programmi e campagne](/help/programs/understanding-programs-and-campaigns.md)
    + [Comprendere l’iscrizione al programma](/help/programs/understanding-program-membership.md)
+   + [Informazioni sulle campagne avanzate](/help/campaigns/understanding-smart-campaigns.md)
    + [Campagne intelligenti 101](/help/campaigns/smart-campaigns-101.md)
    + [Introduzione a canali, tag e costi del periodo](/help/programs/channels-tags-period-costs.md)
    + [Programmi evento](/help/programs/event-programs.md)
    + Programmi predefiniti {#default-programs}
       + [Creare e misurare un programma predefinito](/help/programs/create-and-measure-default-programs.md)
       + [Sfruttare la flessibilità dei programmi predefiniti](/help/programs/leverage-the-flexibility-of-default-programs.md)
+   + Programmi e-mail {#email-programs}
+      + [Creare un programma e-mail](/help/programs/email-programs/create-an-email-program.md)
+      + [Creare un messaggio e-mail](/help/programs/email-programs/create-an-email.md)
+      + [Definire il pubblico](/help/programs/email-programs/define-your-audience.md)
+      + [Creare una pagina di destinazione](/help/programs/email-programs/create-a-landing-page.md)
+      + [Creare un modulo](/help/programs/email-programs/create-a-form.md)
    + Mappe di coinvolgimento {#engagement-maps}
       + [Panoramica sulla mappa del coinvolgimento](/help/engagement-maps/engagement-map-overview.md)
       + [Campagne nidificate con mappa di coinvolgimento](/help/engagement-maps/engagement-map-nested-campaign.md)
@@ -53,7 +63,7 @@ ht-degree: 8%
    + [Pagine di destinazione](/help/email-marketing/landing-pages-learn.md)
    + [Procedura dettagliata per le pagine di destinazione](/help/email-marketing/landing-pages-watch.md)
    + [Forms](/help/email-marketing/forms-learn.md)
-   + [Recapito messaggi e-mail](/help/email-marketing/email-deliverability-learn.md)
+   + [Recapitabilità delle e-mail](/help/email-marketing/email-deliverability-learn.md)
    + [Procedura dettagliata per il recapito messaggi e-mail](/help/email-marketing/email-deliverability-watch.md)
    + [E-mail attivata](/help/email-marketing/triggered-email-learn.md)
    + [Procedura dettagliata e-mail attivata](/help/email-marketing/triggered-email-watch.md)
@@ -102,6 +112,7 @@ ht-degree: 8%
    + [Informazioni sul punteggio](/help/lead-and-data-management/understanding-scoring.md)
    + [Punteggio lead/persona](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Procedura dettagliata per il punteggio lead/persona](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [Informazioni sul ciclo di vita del lead](/help/lead-and-data-management/understanding-the-lead-lifecycle.md)
    + [Centro sottoscrizioni](/help/lead-and-data-management/subscription-center-learn.md)
    + [Procedura dettagliata per il centro abbonamenti](/help/lead-and-data-management/subscription-center-watch.md)
    + [Sincronizzazione CRM](/help/lead-and-data-management/crm-sync-learn.md)
