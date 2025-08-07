@@ -19,4 +19,4 @@ ht-degree: 4%
 
 Assets (ad esempio e-mail, pagine di destinazione e così via) è il componente utilizzato nelle campagne di marketing in Marketo Engage. Scopri come utilizzarli.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470558/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470591/?learn=on&enablevpops&captions=ita)

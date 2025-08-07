@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come utilizzare un programma e-mail per inviare un’e-mail a più destinatari in modo rapido e semplice e tracciarne i risultati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470607/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470615/?learn=on&enablevpops&captions=ita)

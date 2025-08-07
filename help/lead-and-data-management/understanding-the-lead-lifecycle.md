@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri in che modo i lead (persone) progrediscono attraverso le diverse fasi del percorso di acquirenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470572/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470603/?learn=on&enablevpops&captions=ita)
