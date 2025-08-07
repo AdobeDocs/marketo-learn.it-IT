@@ -20,4 +20,4 @@ ht-degree: 0%
 
 I token sono variabili che estraggono dati personalizzati da utilizzare nei passaggi di flusso, nelle e-mail, nelle pagine di destinazione di Smart Campaign e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470560/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470580/?learn=on&enablevpops&captions=ita)
