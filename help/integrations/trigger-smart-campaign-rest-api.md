@@ -4,7 +4,8 @@ description: Scopri come attivare una campagna avanzata in Marketo Engage utiliz
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
+exl-id: 46e54729-92ab-4bbb-9877-f762708def67
+source-git-commit: 99058de9712fbebd631215ef15a6df349ca4c3cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 0%
@@ -29,9 +30,9 @@ Questa operazione può essere eseguita utilizzando l’API REST e I miei token.
 
 ## Passaggio 1: creare la campagna avanzata {#step-one}
 
-1. Vai a **Attività di marketing** e crea nella cartella [Programmi](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} una nuova [Campagna avanzata](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} denominata `Send Webinar Reminder`.
+1. Vai a **Attività di marketing** e crea nella cartella [Programmi](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} una nuova [Campagna avanzata](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} denominata `Send Webinar Reminder`.
 
-1. Nella scheda **Elenco avanzato**, [aggiungi un trigger](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} per consentire la chiamata della campagna tramite l&#39;API:
+1. Nella scheda **Elenco avanzato**, [aggiungi un trigger](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} per consentire la chiamata della campagna tramite l&#39;API:
 
    * Seleziona **La campagna è richiesta** come attivatore
    * Imposta **Source** su `Web Service API`
@@ -40,7 +41,7 @@ Questa operazione può essere eseguita utilizzando l’API REST e I miei token.
 
 ## Passaggio 2: definire il contenuto dell’e-mail {#step-two}
 
-Crea o modifica una [risorsa e-mail](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} che fa riferimento sia a Persona che a [I miei token](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}.
+Crea o modifica una [risorsa e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} che fa riferimento sia a Persona che a [I miei token](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}.
 
 >[!NOTE]
 >
@@ -82,7 +83,7 @@ Per trasmettere i valori in modo dinamico tramite API, i token devono già esist
 
 ## Passaggio 4: impostare le regole di qualificazione della campagna e attivare la campagna {#step-four}
 
-1. Configura le [regole di qualificazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} per controllare la frequenza con cui una persona può eseguire Smart Campaign.
+1. Configura le [regole di qualificazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} per controllare la frequenza con cui una persona può eseguire Smart Campaign.
 
 1. Una volta configurata, fai clic su **Attiva** per abilitare Smart Campaign a ricevere richieste attivate da API.
 
@@ -133,7 +134,7 @@ POST /rest/v1/campaigns/1234/trigger.json
       },
       {
         "name": "{{my.WebinarImage}}",
-        "value": "https://experienceleague.adobe.com/it/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
+        "value": "https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
       }
     ]
   }
