@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come definire il pubblico desiderato quando utilizzi un programma e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470633/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470675/?learn=on&enablevpops&captions=ita)

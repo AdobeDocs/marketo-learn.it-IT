@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come creare, personalizzare e testare un’e-mail in un programma e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470630/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470642/?learn=on&enablevpops&captions=ita)

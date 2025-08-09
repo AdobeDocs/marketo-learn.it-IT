@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come creare, personalizzare e approvare una pagina di destinazione nel programma e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470631/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470653/?learn=on&enablevpops&captions=ita)

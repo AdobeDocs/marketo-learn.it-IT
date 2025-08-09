@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri come creare e utilizzare i moduli per acquisire dati di lead/persone.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470632/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470664/?learn=on&enablevpops&captions=ita)
