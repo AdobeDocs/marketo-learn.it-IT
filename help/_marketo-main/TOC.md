@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 543139a4013eedcea421bb7eeebea4bb683957a1
+source-git-commit: 9cf0fca2786f14ff1d2f4ddacce8b6f44ca964ca
 workflow-type: tm+mt
-source-wordcount: '501'
-ht-degree: 9%
+source-wordcount: '499'
+ht-degree: 12%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 9%
    + [Migrazione ad Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Best practice per organizzare una nuova istanza](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Best practice per la creazione di programmi fondamentali](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [Implementare una nuova istanza - Esercitazione](https://experienceleague.adobe.com/it/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Implementare una nuova istanza - Esercitazione](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [Controllo di un&#39;istanza ereditata - Tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=it)
 + Programmi e campagne {#programs-and-campaigns}
    + [Informazioni sui programmi](/help/programs/understanding-programs.md)
@@ -76,7 +76,6 @@ ht-degree: 9%
    + [Procedura dettagliata per il marketing mobile](/help/cross-channel-marketing/mobile-marketing-watch.md)
    + [SEO e PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
    + [Procedura dettagliata per SEO e PPC](/help/cross-channel-marketing/seo-and-ppc-watch.md)
-   + [Social marketing](/help/cross-channel-marketing/social-marketing-learn.md)
    + [Personalizzazione web](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Procedura dettagliata per la personalizzazione web](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
