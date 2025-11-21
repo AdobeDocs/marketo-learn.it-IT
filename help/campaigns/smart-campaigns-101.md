@@ -21,7 +21,7 @@ ht-degree: 40%
 
 Le campagne intelligenti sono il motore di Marketo. Oltre a utilizzare le campagne intelligenti per l’invio di e-mail e programmi, puoi utilizzare le campagne intelligenti per diversi casi d’uso. Scopri come utilizzare le campagne avanzate per la normalizzazione dei dati e gli avvisi automatizzati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424496/?captions=ita&quality=12&learn=on){transcript=true}
 
 
 ## Risorse aggiuntive
