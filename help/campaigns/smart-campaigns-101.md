@@ -1,5 +1,5 @@
 ---
-title: Campagne intelligenti 101
+title: Campagne smart 101
 description: Scopri come utilizzare le campagne intelligenti per normalizzare i dati e automatizzare gli avvisi.
 short-description: Se Marketo Engage fosse un’auto, la campagna intelligente ne sarebbe il motore. Le campagne intelligenti possono fare più di quanto si possa immaginare ed è facile iniziare a utilizzarle.
 role: User
@@ -11,26 +11,26 @@ thumbnail: 3420096.jpeg
 exl-id: fb050abb-5b43-42da-a4ae-83780d4abb1c
 feature: Smart Campaigns
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
-# Campagne intelligenti 101
+# Campagne smart 101
 
-Le campagne intelligenti sono il motore di Marketo. Oltre a utilizzare le campagne intelligenti per l’invio di e-mail e programmi, puoi utilizzare le campagne intelligenti per diversi casi d’uso. Scopri come utilizzare le campagne avanzate per la normalizzazione dei dati e gli avvisi automatizzati.
+Le campagne smart sono il motore di Marketo. Oltre a utilizzare le campagne smart per l’invio di e-mail e programmi, puoi utilizzarle per diversi casi d’uso. Scopri come utilizzare le campagne smart per normalizzare i dati e automatizzare gli avvisi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424496/?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## Risorse aggiuntive
 
 **Documentazione:**
 
-* [Informazioni sulla documentazione delle campagne avanzate](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=it)
+* [Informazioni sulla documentazione delle campagne smart](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=it)
 
-**Post di blog di clienti esperti:**
+**Post del blog dei clienti esperti:**
 
-* [Campagne Avanzate 101: Approfondimento Sulla Funzionalità Più Potente Di Adobe Marketo Engage](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
-* [Serie di successo Marketo: campagne intelligenti](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)
+* [Campagne smart 101: un’analisi approfondita della funzione più potente di Adobe Marketo Engage](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [Marketo Success Series: campagne smart](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)
