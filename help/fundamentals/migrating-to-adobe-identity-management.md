@@ -46,7 +46,7 @@ Per assicurarti che la tua organizzazione possa effettuare la migrazione di Adob
 
 Nel video seguente, il team di Gestione prodotto di Marketo Engage ti guida attraverso il percorso di migrazione e ti spiegherà che cosa aspettarti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432364/?captions=ita&t=170/?quality=12&learn=on){transcript=true}
 
 Ulteriore assistenza su questo argomento per gli amministratori di Marketo Engage è disponibile nei seguenti articoli della guida:
 

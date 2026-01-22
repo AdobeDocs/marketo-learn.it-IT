@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Le campagne smart sono il motore di Marketo. Oltre a utilizzare le campagne smart per l’invio di e-mail e programmi, puoi utilizzarle per diversi casi d’uso. Scopri come utilizzare le campagne smart per normalizzare i dati e automatizzare gli avvisi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424496/?captions=ita&quality=12&learn=on){transcript=true}
 
 
 ## Risorse aggiuntive
