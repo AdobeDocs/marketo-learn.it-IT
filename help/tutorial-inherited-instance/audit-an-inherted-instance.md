@@ -24,4 +24,4 @@ Ereditare un’istanza di Marketo Engage può essere un momento difficile, che t
 
 Questa esercitazione illustra le sezioni più importanti di Marketo Engage, inclusi Admin, Marketing Activities, Design Studio e Database, e fornisce suggerimenti per il controllo e l&#39;ottimizzazione durante il processo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453030/?captions=ita&learn=on)
