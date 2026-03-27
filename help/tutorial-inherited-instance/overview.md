@@ -1,6 +1,6 @@
 ---
-title: Suggerimenti per il controllo di un'istanza di Marketo Engage ereditata
-description: Scopri come ottimizzare e scalare un’istanza di Marketo Engage live che hai ereditato.
+title: Suggerimenti per il controllo di un'istanza Marketo Engage ereditata
+description: Scopri come ottimizzare e scalare un’istanza live di Marketo Engage che hai ereditato.
 feature: Administration
 role: Admin
 level: Beginner
@@ -8,22 +8,22 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
-hide: false
+index: true
 exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
-source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
-# Suggerimenti per il controllo di un&#39;istanza di Marketo Engage ereditata - Panoramica del tutorial
+# Suggerimenti per il controllo di un&#39;istanza Marketo Engage ereditata - Panoramica del tutorial
 
-*Source: campioni Adobe Marketo*
+*Source: Adobe Marketo Champions*
 
-Se erediti un’istanza di Marketo Engage live gestita da più persone, potresti trovarti a fare note mentali su tutto ciò che sembra fuori posto. È importante organizzare il lavoro di pulizia e ottimizzazione suddividendo in categorie le attività e quindi assegnando un ordine di priorità a quelle attività che hanno una lunga durata.
+Se erediti un’istanza live di Marketo Engage che è stata gestita da più persone, potresti trovarti a fare note mentali su tutto ciò che sembra fuori posto. È importante organizzare il lavoro di pulizia e ottimizzazione suddividendo in categorie le attività e quindi assegnando un ordine di priorità a quelle attività che hanno una lunga durata.
 
-Questo tutorial sui &quot;suggerimenti e trucchi per l’audit delle istanze ereditate&quot;, tratto da Adobe Marketo Champions, fornisce indicazioni dettagliate per i nuovi amministratori. L&#39;esercitazione accompagna [elenchi di controllo di audit](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=it) scaricabili e modelli per aiutarti a iniziare subito un&#39;istanza ereditata. Segui i tutorial e impara dagli altri utenti. 
+Questo tutorial sui &quot;suggerimenti e trucchi per l’audit delle istanze ereditate&quot;, creato da Adobe Marketo Champions, fornisce indicazioni dettagliate per i nuovi amministratori. L&#39;esercitazione accompagna [elenchi di controllo di audit](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) scaricabili e modelli per aiutarti a iniziare subito un&#39;istanza ereditata. Segui i tutorial e impara dagli altri utenti. 
 
 ## Argomenti e informazioni
 

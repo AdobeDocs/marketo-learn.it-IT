@@ -2,15 +2,17 @@
 cloud: Experience Cloud
 solution: Marketo Engage
 product: marketo
+landing-page-name: marketo-engage
+landing-page-breadcrumb-title: Marketo Engage
 type: Tutorial
 doc-type: video
 feature-set: Marketo Engage
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/marketo-learn.it-IT
+git-repo: https://github.com/AdobeDocs/marketo-learn.en
 index: true
-source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
+source-git-commit: d486e3d7fc1b9aed1e447dd230bc8d65a2caeb50
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -18,6 +20,6 @@ ht-degree: 0%
 
 # Metadati per uso interno
 
-La [!DNL metadata]Il file .md include metadati a livello di repository che passano alla guida utente [!DNL TOC.md] file nel repository. Se desideri modificare il contenuto di metadata.md per qualsiasi guida utente, effettua questa operazione in qualsiasi file TOC.md.
+Il file [!DNL metadata].md include metadati a livello di repository che passano ai file della guida utente [!DNL TOC.md] nel repository. Se desideri modificare il contenuto di metadata.md per qualsiasi guida utente, effettua questa operazione in qualsiasi file TOC.md.
 
-Vedi [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en) per un elenco di valori validi per **soluzione**, **prodotto** e **type**.
+Per un elenco di valori validi per **soluzione**, **prodotto** e **tipo**, vedere [metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en).
