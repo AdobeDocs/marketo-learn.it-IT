@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Con [!UICONTROL person nurturing], puoi ascoltare le esigenze dei singoli utenti e rispondere con contenuti pertinenti in tutto il loro percorso di acquirenti univoco. Scopri i programmi di crescita, come funzionano e i passaggi per il successo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345478/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411653/?captions=ita&quality=12&learn=on){transcript=true}

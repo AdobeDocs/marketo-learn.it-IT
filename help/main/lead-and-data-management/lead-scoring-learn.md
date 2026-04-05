@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Migliorare la qualità dei lead che il marketing fornisce alle vendite utilizzando un programma di punteggio lead/persona. Scopri il punteggio di lead/persona, come funziona e i passaggi per il successo per realizzare i suoi vantaggi misurabili.
 
->[!VIDEO](https://video.tv.adobe.com/v/345424/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412245/?captions=ita&quality=12&learn=on){transcript=true}

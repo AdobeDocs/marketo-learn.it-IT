@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Il messaggio di marketing non raggiungerà gli obiettivi se le e-mail non vengono inserite nelle caselle in entrata degli abbonati. Scopri come inviare correttamente le e-mail agli abbonati che desiderano leggerle.
 
->[!VIDEO](https://video.tv.adobe.com/v/345481/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411478/?captions=ita&quality=12&learn=on){transcript=true}

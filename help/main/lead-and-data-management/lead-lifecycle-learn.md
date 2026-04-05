@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Sapete quanti lead ci sono in ogni fase del percorso dell&#39;acquirente e quando le vendite dovrebbero contattarli? Scopri come creare un programma [!UICONTROL person lifecycle] che utilizza il punteggio per ottenere informazioni approfondite su dove si trovano i lead nel percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412255/?captions=ita&quality=12&learn=on){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 36%
 
 I programmi rappresentano una singola iniziativa di marketing. Scopri come sfruttarli per raggiungere il pubblico in diversi modi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470495/?captions=ita&learn=on&enablevpops)

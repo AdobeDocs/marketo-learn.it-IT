@@ -20,4 +20,4 @@ ht-degree: 21%
 
 Ulteriori informazioni sulle persone e sulla loro relazione con un programma specifico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463189/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463200/?captions=ita&learn=on&enablevpops)

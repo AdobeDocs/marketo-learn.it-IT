@@ -20,7 +20,7 @@ ht-degree: 24%
 
 Sviluppa una conoscenza di base e crea il tuo primo Programma per evento guardando questo video.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419622/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454002/?captions=ita&learn=on){transcript=true}
 
 ## Risorse aggiuntive
 

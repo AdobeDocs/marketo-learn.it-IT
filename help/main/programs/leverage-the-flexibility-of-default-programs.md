@@ -22,4 +22,4 @@ ht-degree: 54%
 Tra i quattro tipi di programmi, i programmi predefiniti sono i più flessibili e consentono di essere più creativi.
 Scopri due casi d’uso comuni: moduli web e generazione di persone per contenuti multimediali a pagamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453859?captions=ita&learn=on){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Le campagne smart sono il motore di Marketo Engage. Possono essere utilizzate per inviare e-mail, programmi e altro ancora. Scopri tutto su questi strumenti essenziali in Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470546/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470568/?captions=ita&learn=on&enablevpops)

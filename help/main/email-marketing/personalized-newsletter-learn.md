@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Coinvolgi i potenziali clienti e i clienti in modo conveniente utilizzando newsletter e-mail personalizzate.
 
->[!VIDEO](https://video.tv.adobe.com/v/345471/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412000/?captions=ita&quality=12&learn=on){transcript=true}

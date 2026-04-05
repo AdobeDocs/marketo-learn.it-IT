@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Sei pronto a eseguire un webinar come parte delle attività di marketing? Scopri come funzionano i webinar con [!DNL Marketo Engage] e i relativi partner Adobe Exchange.
 
->[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411663/?captions=ita&quality=12&learn=on){transcript=true}

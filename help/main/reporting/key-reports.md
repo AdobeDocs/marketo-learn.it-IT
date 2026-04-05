@@ -22,7 +22,7 @@ ht-degree: 3%
 
 Scopri i rapporti chiave in Marketo Engage e come richiamarli.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432183/?captions=ita&learn=on){transcript=true}
 
 ## Risorse aggiuntive
 

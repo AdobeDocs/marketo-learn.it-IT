@@ -21,4 +21,4 @@ ht-degree: 4%
 Una guida per comprendere tutte le funzionalità che puoi sfruttare per gestire tutti gli agenti da un’unica posizione che interagiranno con i visitatori web.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424829/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447241/?captions=ita&learn=on)

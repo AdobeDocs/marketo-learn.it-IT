@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Informazioni su come impostare un programma per eventi che consenta di creare e pianificare eventi di webinar interattivi in Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429639/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443420/?captions=ita&learn=on)

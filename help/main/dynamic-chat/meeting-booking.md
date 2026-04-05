@@ -18,7 +18,7 @@ ht-degree: 2%
 
 Utilizza Dynamic Chat per accelerare la connessione con le vendite per [!DNL target] lead di account. Consenti ai visitatori di prenotare riunioni con vari rappresentanti commerciali aggiungendo i tuoi agenti di vendita come utente tramite [Admin Console](https://adminconsole.adobe.com/) e ogni agente deve collegare il proprio calendario.
 
->[!VIDEO](https://video.tv.adobe.com/v/340258/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345014/?captions=ita&quality=12&learn=on){transcript=true}
 
 ## Video più utili
 

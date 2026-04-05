@@ -20,4 +20,4 @@ ht-degree: 14%
 
 Scopri come creare un elenco generale di persone in Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463191/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463222/?captions=ita&learn=on&enablevpops)

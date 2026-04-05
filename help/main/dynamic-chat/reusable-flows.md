@@ -20,4 +20,4 @@ ht-degree: 8%
 
 Semplifica la progettazione e la gestione delle conversazioni con la nuova scheda Flusso conversazionale. Crea un flusso conversazionale una volta e riutilizzalo in più finestre di dialogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429715/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446653/?captions=ita&learn=on)

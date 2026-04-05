@@ -18,7 +18,7 @@ ht-degree: 22%
 
 Per creare una grande esperienza di conversazione per ogni visitatore web, è fondamentale progettare conversazioni mirate e personalizzate. Scopri come creare e gestire un dialogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443802/?captions=ita&quality=12&learn=on){transcript=true}
 
 ## Video più utili
 

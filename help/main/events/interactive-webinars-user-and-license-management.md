@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Informazioni sulle autorizzazioni degli utenti per i webinar interattivi, nonché sulla disponibilità delle licenze e il monitoraggio dei limiti di utilizzo per le stesse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446124/?captions=ita&learn=on)

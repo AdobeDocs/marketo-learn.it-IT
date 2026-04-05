@@ -20,7 +20,7 @@ ht-degree: 3%
 
 Una ricerca rapida consente di accedere a qualsiasi scheda della finestra di progettazione del flusso con un solo clic.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437251/?captions=ita&quality=12&learn=on){transcript=true}
 
 ## Video più utili
 

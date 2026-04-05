@@ -18,7 +18,7 @@ ht-degree: 2%
 
 Scopri come creare un programma per eventi fiere basato su un programma predefinito in Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345473/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411678/?captions=ita&quality=12&learn=on){transcript=true}
 
 ## Risorse aggiuntive
 
