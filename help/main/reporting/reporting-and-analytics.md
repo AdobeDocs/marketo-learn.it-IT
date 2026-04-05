@@ -27,7 +27,7 @@ Scopri come spostarti nella sezione Analytics e Database per richiamare diversi 
 ## Risorse aggiuntive
 
 * **Documentazione del prodotto**
-Scopri i diversi rapporti che puoi richiamare - [Panoramica dei rapporti](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&sdid=M7K4SLTS&mv=email&mv2=instreml)
+Scopri i diversi rapporti che puoi richiamare - [Panoramica dei rapporti](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=it&sdid=M7K4SLTS&mv=email&mv2=instreml)
 
 * **Post di blog di un cliente esperto**
 Scopri Chelsea Kiko, Champion, come creare vari rapporti: [Creazione di rapporti in vari spazi Marketo Engage](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
