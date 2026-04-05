@@ -21,4 +21,4 @@ Scopri come configurare e registrare le attività Sales Insight Actions sul tuo 
 ## Video correlati
 
 * [Panoramica delle azioni di Sales Insight](/help/main/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [Accesso all&#39;istanza  [!DNL Sales Insight Actions] ](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [Accesso all&#39;istanza  [!DNL Sales Insight Actions] &#x200B;](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

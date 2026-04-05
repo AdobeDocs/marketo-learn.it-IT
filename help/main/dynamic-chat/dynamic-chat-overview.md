@@ -45,7 +45,7 @@ Ti diamo il benvenuto nel sito dei tutorial su [!UICONTROL Dynamic Chat]. Usa qu
      *Con una rapida ricerca puoi accedere a qualsiasi scheda nel Designer flusso con un solo clic.*
    * **[Acquisizione degli attributi dedotti](capture-inferred-attributes.md)**
      *È possibile identificare e popolare gli attributi dedotti per ciascun lead acquisito tramite Dynamic Chat sfruttando l’ID Munchkin.*
-   * Anteprima finestra di dialogo **[](dialogue-preview.md)**
+   * Anteprima finestra di dialogo **[&#128279;](dialogue-preview.md)**
      *Visualizzare l’anteprima del dialogo prima della pubblicazione è molto semplice con la funzione Anteprima dialogo.*
    * **[Globalizzazione del contenuto statico](globalization-of-static-content.md)**
      *Puoi personalizzare i contenuti statici/di sistema nella lingua desiderata.*
