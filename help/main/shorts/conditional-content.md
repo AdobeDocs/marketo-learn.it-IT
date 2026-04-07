@@ -1,5 +1,5 @@
 ---
-title: Contenuto condizionale - Forma breve
+title: Contenuti condizionali
 description: Scopri come controllare dinamicamente i contenuti visualizzati da ciascun pubblico.
 feature: Email Designer
 role: Admin, User
@@ -8,15 +8,15 @@ doc-type: Feature Video
 duration: 74
 last-substantial-update: 2026-04-07T00:00:00Z
 jira: KT-20510
-source-git-commit: a5807ceea7529380a7e8a03774f8f0956d385693
+source-git-commit: 38af3c262590a4bd782a20816c4a174e6c213fa2
 workflow-type: tm+mt
-source-wordcount: '32'
-ht-degree: 0%
+source-wordcount: '28'
+ht-degree: 14%
 
 ---
 
-# Contenuto condizionale - Forma breve
+# Contenuti condizionali
 
 Scopri come controllare dinamicamente i contenuti visualizzati da ciascun pubblico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481290/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481282/?learn=on&enablevpops)
