@@ -24,11 +24,11 @@ Scopri come configurare l’applicazione Postman e utilizzare le variabili per s
 >
 >Prima di iniziare questo video, crea un nome utente Solo API con un ruolo AOI e crea un servizio Launchpad. Segui i passaggi descritti negli articoli seguenti:
 >
->* [Crea un ruolo utente solo API](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
+>* [Crea un ruolo utente solo API](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
 >
->* [Crea un utente solo API](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
+>* [Crea un utente solo API](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
 >
->* [Crea un servizio personalizzato da utilizzare con API REST](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
+>* [Crea un servizio personalizzato da utilizzare con API REST](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
 
 **Riferimenti utilizzati in questo video:**
 
