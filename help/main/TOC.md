@@ -3,17 +3,17 @@ user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 22d16ad38bdaa319705cc26ac96056f33c4a255d
+source-git-commit: 85ab4e6b4a14b2dfa2faf6b427cb86aab72dc7d0
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 96%
+source-wordcount: '546'
+ht-degree: 95%
 
 ---
 
 
 # Tutorial su [!DNL Marketo Engage] {#tutorials}
 
-+ [Tutorial su [!DNL Marketo Engage]](overview.md)
++ [Tutorial su [!DNL Marketo Engage]](/help/main/overview.md)
 + Nozioni di base {#fundamentals}
    + [Obiettivi e strategia](/help/main/fundamentals/goals-and-strategy-learn.md)
    + [Struttura organizzativa](/help/main/fundamentals/organizational-structure-learn.md)
@@ -74,8 +74,6 @@ ht-degree: 96%
    + [Procedura dettagliata sui moduli](/help/main/email-marketing/forms-watch.md)
    + [Integrazione del mobile marketing](/help/main/cross-channel-marketing/mobile-marketing-learn.md)
    + [Procedura dettagliata sul mobile marketing](/help/main/cross-channel-marketing/mobile-marketing-watch.md)
-   + [SEO e PPC](/help/main/cross-channel-marketing/seo-and-ppc-learn.md)
-   + [Procedura dettagliata su SEO e PPC](/help/main/cross-channel-marketing/seo-and-ppc-watch.md)
    + [Personalizzazione web](/help/main/cross-channel-marketing/web-personalization-learn.md)
    + [Procedura dettagliata sulla personalizzazione web](/help/main/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -152,3 +150,6 @@ ht-degree: 96%
    + [Automatizzare la gestione dei duplicati - Parte 2](/help/main/managing-duplicates/automate-integration-part-2.md)
    + [Semplificare la gestione dei duplicati](/help/main/managing-duplicates/simplify-acs.md)
    + [Scegliere la strategia migliore per la gestione dei duplicati](/help/main/managing-duplicates/duplicate-strategy.md)
++ Short {#shorts}
+   + [Assistente AI per E-mail Designer](/help/main/shorts/ai-assistant-email-designer.md)
+
