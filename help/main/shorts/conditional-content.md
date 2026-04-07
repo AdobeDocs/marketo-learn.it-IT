@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Scopri come controllare dinamicamente i contenuti visualizzati da ciascun pubblico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481290/?captions=ita&learn=on&enablevpops)
