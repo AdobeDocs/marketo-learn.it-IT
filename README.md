@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # ARCHIVIATO
 
-Questo repository è stato migrato a <https://github.com/Adobe-Enterprise-Docs/marketo-learn.en>.
+Questo repository è stato migrato a <https://github.com/Adobe-Enterprise-Docs/marketo-learn.it-IT>.
