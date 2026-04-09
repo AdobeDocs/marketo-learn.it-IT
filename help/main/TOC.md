@@ -3,10 +3,10 @@ user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
 auto-video-transcripts: true
-source-git-commit: a5807ceea7529380a7e8a03774f8f0956d385693
+source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
 workflow-type: tm+mt
 source-wordcount: '548'
-ht-degree: 95%
+ht-degree: 84%
 
 ---
 
@@ -111,7 +111,7 @@ ht-degree: 95%
    + [Procedura dettagliata sul punteggio lead/persona](/help/main/lead-and-data-management/lead-scoring-watch.md)
    + [Informazioni sul ciclo di vita del lead](/help/main/lead-and-data-management/understanding-the-lead-lifecycle.md)
    + [Centro abbonamenti](/help/main/lead-and-data-management/subscription-center-learn.md)
-   + [Procedura dettagliata sul centro abbonamenti](/help/main/lead-and-data-management/subscription-center-watch.md)
+   + {hide-from-toc}[Procedura dettagliata per il centro sottoscrizioni](/help/main/lead-and-data-management/subscription-center-watch.md)
    + [Sincronizzazione CRM](/help/main/lead-and-data-management/crm-sync-learn.md)
    + [Guida introduttiva alla sincronizzazione con Salesforce](/help/main/integrations/salesforce-sync-setup.md)
    + [Guida introduttiva alla sincronizzazione con Microsoft Dynamics](/help/main/integrations/microsoft-dynamics-sync-setup.md)
@@ -138,18 +138,18 @@ ht-degree: 95%
    + [Guida API - Impostare il token di accesso in una variabile](/help/main/integrations/api-set-access-token-variable.md)
    + [Attivare una campagna smart in Marketo Engage utilizzando l’API REST e i token](/help/main/integrations/trigger-smart-campaign-rest-api.md)
 + Gestione dei duplicati {#manage-duplicates}
-   + [Introduzione alla gestione dei duplicati](/help/main/managing-duplicates/introduction-managing-duplicates.md)
-   + [Capire perché si verificano i duplicati](/help/main/managing-duplicates/why-duplicates-occur.md)
-   + [Identificare ed evitare i record duplicati](/help/main/managing-duplicates/identify-prevent-duplicates.md)
-   + [Determinare quando i record duplicati sono necessari](/help/main/managing-duplicates/determine-necessary-duplicates.md)
-   + [Unire manualmente i record duplicati](/help/main/managing-duplicates/merge-manually.md)
-   + [Unione in blocco di duplicati - Parte 1](/help/main/managing-duplicates/bulk-merge-part-1.md)
-   + [Unione in blocco di duplicati - Parte 2](/help/main/managing-duplicates/bulk-merge-part-2.md)
-   + [Unione in blocco di duplicati - Parte 3](/help/main/managing-duplicates/bulk-merge-part-3.md)
-   + [Automatizzare la gestione dei duplicati - Parte 1](/help/main/managing-duplicates/automate-integration-part-1.md)
-   + [Automatizzare la gestione dei duplicati - Parte 2](/help/main/managing-duplicates/automate-integration-part-2.md)
-   + [Semplificare la gestione dei duplicati](/help/main/managing-duplicates/simplify-acs.md)
-   + [Scegliere la strategia migliore per la gestione dei duplicati](/help/main/managing-duplicates/duplicate-strategy.md)
+   + {hide-from-toc}[Introduzione alla gestione dei duplicati](/help/main/managing-duplicates/introduction-managing-duplicates.md)
+   + {hide-from-toc}[Comprendere perché si verificano duplicati](/help/main/managing-duplicates/why-duplicates-occur.md)
+   + {hide-from-toc}[Identificare e impedire record duplicati](/help/main/managing-duplicates/identify-prevent-duplicates.md)
+   + {hide-from-toc}[Determinare quando sono necessari record duplicati](/help/main/managing-duplicates/determine-necessary-duplicates.md)
+   + {hide-from-toc}[Unione manuale dei record duplicati](/help/main/managing-duplicates/merge-manually.md)
+   + {hide-from-toc}[L&#39;unione in blocco duplica la parte 1](/help/main/managing-duplicates/bulk-merge-part-1.md)
+   + {hide-from-toc}[L&#39;unione in blocco duplica la parte 2](/help/main/managing-duplicates/bulk-merge-part-2.md)
+   + {hide-from-toc}[L&#39;unione in blocco duplica la parte 3](/help/main/managing-duplicates/bulk-merge-part-3.md)
+   + {hide-from-toc}[Automatizzare la parte di gestione duplicata 1](/help/main/managing-duplicates/automate-integration-part-1.md)
+   + {hide-from-toc}[Automatizzare la parte di gestione duplicata 2](/help/main/managing-duplicates/automate-integration-part-2.md)
+   + {hide-from-toc}[Gestione duplicata semplificata](/help/main/managing-duplicates/simplify-acs.md)
+   + {hide-from-toc}[Scegliere la strategia migliore per la gestione dei duplicati](/help/main/managing-duplicates/duplicate-strategy.md)
 + Short {#shorts}
    + [Assistente AI per e-mail designer](/help/main/shorts/ai-assistant-email-designer.md)
    + [Contenuto condizionale](/help/main/shorts/conditional-content.md)
