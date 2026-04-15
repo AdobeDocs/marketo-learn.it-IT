@@ -3,10 +3,10 @@ title: Tutorial su Marketo Engage
 description: Guarda i tutorial video su  [!DNL Marketo Engage]. Scopri di più su come utilizzare le funzioni di automazione del marketing e altro ancora.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 94%
+source-wordcount: '249'
+ht-degree: 73%
 
 ---
 
@@ -25,14 +25,14 @@ Sfoglia la libreria dei tutorial e ottieni il massimo da [!DNL Marketo Engage]. 
 
 ## Novità {#whats-new}
 
+* [Assistente AI per E-mail Designer](https://experienceleague.adobe.com/it/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+  _Utilizza l&#39;Assistente AI in Marketo Engage Email Designer per creare e-mail contemporanee, performanti e intuitive._
+
+* [Contenuto condizionale](https://experienceleague.adobe.com/it/docs/marketo-learn/tutorials/shorts/conditional-content)
+  _Scopri come controllare dinamicamente il contenuto visualizzato dal pubblico._
+
 * [Best practice per implementare la chat in diretta](https://experienceleague.adobe.com/it/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _Scopri le best practice da seguire per implementare la funzione di chat live in Dynamic Chat._
-
-* [Panoramica dei webinar interattivi](https://experienceleague.adobe.com/it/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
-  _Scopri tutto su Webinar interattivi, la piattaforma webinar integrata in Marketo Engage._
-
-* [Migrazione ad Adobe Identity Management](https://experienceleague.adobe.com/it/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
-  _Scopri come orientarti nella migrazione ad Adobe Identity Management e come iniziare a gestire Adobe Marketo Engage insieme agli altri account e prodotti Adobe in un ’unica posizione centralizzata per i tuoi utenti._
 
 ## Video più popolari {#most-popular-videos}
 
