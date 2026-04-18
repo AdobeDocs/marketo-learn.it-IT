@@ -20,4 +20,4 @@ ht-degree: 8%
 
 Scopri come importare i modelli e-mail esistenti dall’editor classico in E-mail Designer, mantenendo le progettazioni e accelerando la creazione dei modelli.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483490/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483498/?captions=ita&learn=on&enablevpops)
