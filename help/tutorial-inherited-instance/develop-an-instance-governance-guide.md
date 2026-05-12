@@ -5,14 +5,20 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
 index: true
 exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
-source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+TQID: https://experienceleague.adobe.com/t1TtyyanSwdY8cE3hEkLLOqIW2GpEvFUS1I4LGpUnKM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: 959
 ht-degree: 1%
 
 ---
@@ -29,7 +35,7 @@ La documentazione dettagliata e un [!DNL changelog] sono fondamentali per una ge
 
 1. Formare gli utenti interni più facilmente e in modo scalabile.
 2. Generare in modo più efficiente in [!DNL Marketo Engage] a lungo termine.
-3. Mantenere lo stato di salute e l&#39;igiene dell&#39;istanza per evitare di trascorrere ore a cercare e-mail, [audit trail](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=it) e [registro attività](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=it) per ottenere il contesto.
+3. Mantenere lo stato di salute e l&#39;igiene dell&#39;istanza per evitare di trascorrere ore a cercare e-mail, [audit trail](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html) e [registro attività](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html) per ottenere il contesto.
 4. Risparmia tempo con il trasferimento delle conoscenze di [!DNL Marketo Engage] a un nuovo amministratore di [!DNL Marketo Engage] se il tuo team subisce un ricambio.
 
 ## Guida alla governance di [!DNL Marketo Engage] 101
@@ -51,7 +57,7 @@ Una guida alla governance funge da fonte di verità per la configurazione dell�
 
 ### Passaggio 2: identificare gli elementi da includere nella documentazione di [!DNL Marketo Engage] e [!DNL Changelogs]
 
-Il formato varia da una piattaforma basata su cloud a un documento condiviso. Puoi progettare il formato che soddisfi le esigenze della tua organizzazione. [Di seguito è riportata una semplice documentazione e un modello di Excel changelog](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) che descrive gli elementi importanti con cui è possibile iniziare. Comprendono:
+Il formato varia da una piattaforma basata su cloud a un documento condiviso. Puoi progettare il formato che soddisfi le esigenze della tua organizzazione. [Di seguito è riportata una semplice documentazione e un modello di excel changelog](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) che descrive gli elementi importanti con cui è possibile iniziare. Comprendono:
 
 * Documentazione
    * Nome modello programma
@@ -100,7 +106,7 @@ Segui i passaggi precedenti per sviluppare la guida alla governance e la documen
 **Aggiorna la documentazione esistente:**
 È fondamentale mantenere aggiornata la documentazione. Se non è stata modificata negli ultimi 3 anni, conferma il tempo necessario per rivedere la documentazione durante l’audit dell’istanza.
 
-**Condividi e tieni traccia di:**
+**Condividi e forma:**
 Condividi la tua documentazione e [!DNL changelog] con i membri del gruppo pertinenti e istruiscili su come aggiornare questi record.
 
 **Revisione periodica:** prepianificare il tempo necessario per esaminarle e gestirle nel corso dell&#39;anno in modo da includere eventuali nuove modifiche, ottimizzazioni o adeguamenti nel momento in cui si verificano.
