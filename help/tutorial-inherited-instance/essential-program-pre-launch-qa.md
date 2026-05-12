@@ -5,14 +5,47 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
 index: true
 exl-id: d8c743eb-28d9-4509-8f96-f369167d423c
-source-git-commit: 98e4cfe72cc7dfe0158f49c910d263d8e4671297
+TQID: https://experienceleague.adobe.com/-JKThAf-WSFUCKjDwYt4eeIDiCjXDd11YI8P-jXoU94
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '6064'
+source-wordcount: 6064
 ht-degree: 2%
 
 ---
@@ -36,7 +69,7 @@ Se si è più recenti di [!DNL Marketo Engage], è possibile che non si sappia c
 
 Rispondi alle seguenti domande per riflettere sul processo di controllo qualità:
 
-* **Chi può ricoprire il ruolo di revisore e approvatore?**
+* **Chi è in grado di svolgere il ruolo di revisore e approvatore?**
 Se sei in un&#39;organizzazione più piccola, gli amministratori [!DNL Marketo Engage] possono svolgere ruoli ibridi di Marketing e Marketing Operations. Si consiglia di avere un [!DNL Marketo Engage] non generatore. Considerare gli utenti avanzati per controllare i programmi. Un nuovo paio di occhi nuovi aiuta a individuare i problemi.
 
 * **In che modo i generatori e i revisori collaborano e documentano le note e le modifiche?**
@@ -121,7 +154,7 @@ Potrebbero esserci elementi mancanti o non applicabili in quanto il team esegue 
 | 2 | **Progettazione** | Il design del marchio del modulo è coerente? | **Sì:** <br>Se non riesci a rispondere con un sì, devi fornire un buon motivo o aggiornare il CSS per impostarlo sul marchio. |  |
 | 3 | **Flusso di dati** | Tutti i dati vengono mappati sui campi come previsto? Hai controllato il registro attività di un record di test per provarlo? | **Sì:** <br>Se non riesci a rispondere con un sì, correggi e verifica il mapping. | [Individua il registro attività per una persona](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=it){target="_blank"} |
 | 4 | **Tracking** | Sono presenti campi UTM nascosti per tenere traccia delle origini degli invii a questo modulo? Sono stati testati? | **Sì o no:** <br>In caso di risposta negativa, è possibile tenere traccia delle origini che hanno indirizzato gli utenti a questo modulo. | [Impostare un campo modulo come nascosto](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.html?lang=it){target="_blank"}<br><br>[Impostare un valore del campo modulo nascosto](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=it){target="_blank"} |
-| 5 | **Conformità RGPD/CASL** | Se i dati vengono acquisiti tramite il modulo, l’opzione di consenso è conforme e fornisci un’istruzione di raccolta con un collegamento funzionante all’Informativa sulla privacy? | **Sì:** <br>Conoscere l&#39;ambiente di conformità rilevante: se non è possibile rispondere a questa domanda con un sì, è necessario eseguire l&#39;aggiornamento per assicurarsi che sia conforme. **Se non lo sai, chiedi un consiglio appropriato.** | [Gestione della privacy](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=it){target="_blank"} |
+| 5 | **Conformità RGPD/CASL** | Se i dati vengono acquisiti tramite il modulo, l’opzione di consenso è conforme e fornisci un’istruzione di raccolta con un collegamento funzionante all’Informativa sulla privacy? | **Sì:** <br>Conoscere l&#39;ambiente di conformità rilevante: se non è possibile rispondere a questa domanda con un sì, è necessario eseguire l&#39;aggiornamento per assicurarsi che sia conforme. **Se non lo sai, chiedi consiglio.** | [Gestione della privacy](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=it){target="_blank"} |
 
 >[!TAB Campagne avanzate]
 
@@ -185,7 +218,7 @@ Potrebbero esserci elementi mancanti o non applicabili in quanto il team esegue 
 | 19 | **Test A/B e Champ/Challenger** | Stai eseguendo test di campioni/sfidanti sull’e-mail? | **Sì o no:**<br> Se non esegui alcun test, pensa di poter perdere un&#39;opportunità per saperne di più sul pubblico. | [Crea un test A/B](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=it)<br><br>[Aggiungi un campione/sfidante e-mail](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.html?lang=it){target="_blank"} |
 | 20 | **Test client** | Hai eseguito l’e-mail tramite il software di test client?<li>Hai identificato problemi di visualizzazione con i principali client e-mail? <li>Hai corretto o registrato come correzione non urgente dei modelli? <li>Hai identificato problemi di velocità di carico e hai tentato di migliorare?<li>Hai identificato dei problemi nella riga dell’oggetto o della riga di anteprima? Sono risolti? | **Sì o non applicabile:**<br> Se non è possibile rispondere con un sì (a meno che non si disponga di software di test), è necessario eseguire questa operazione prima di inviare. | Esempi di software di test client includono Litmus o Email on Acid o [Marketo Email Deliverability Power Pack](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.html?lang=it)<br><br>[Tutorial sul tracciatore della casella in entrata](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=it){target="_blank"} |
 | 21 | **Test spam** | Hai eseguito l’e-mail tramite il processo di spam?<li>Ci sono bandiere di segnalazione per la?<li>Hai identificato un flag di posizionamento casella in entrata/client e-mail? <li>Hai cercato le possibili cause e hai tentato di risolverle? | **Sì o non applicabile:**<br> Se non è possibile rispondere con un sì (a meno che non si disponga di software di test), è necessario eseguire questa operazione prima di inviare. | Utilizza la funzionalità di tracciamento della casella in entrata di [Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=it){target="_blank"} per questo se ne hai incluso nel contratto o strumenti come Litmus o E-mail su Acid. |
-| 22 | **Analisi aggiuntive** | L’e-mail include codice di analisi aggiuntivo? | **Sì o non applicabile:**<br>       Se non riesci a rispondere con un sì (a meno che non disponi di software di analisi aggiuntivo), devi farlo prima dell’invio. |  |
+| 22 | **Analisi aggiuntive** | L’e-mail include codice di analisi aggiuntivo? | **Sì o non applicabile:**<br> Se non è possibile rispondere con un sì (a meno che non si disponga di software di analisi aggiuntivo), è necessario farlo prima dell&#39;invio. |  |
 
 >[!TAB Controlli finali]
 
@@ -206,7 +239,7 @@ Fai clic [qui](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo
 
 **Grace Brebner**
 Adobe Marketo Champion (2021)
-*Direttore strategia client, area APAC, Digital Pi, LLC - Società Merkle*
+*Direttore strategia client, area APAC, Digital Pi, LLC - Azienda Merkle*
 
 ![Grace Brebner](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Grace_Brebner.png){width=30%}
 
