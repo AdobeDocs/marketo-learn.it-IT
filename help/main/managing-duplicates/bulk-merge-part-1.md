@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Ulteriori informazioni sugli scenari e sulle motivazioni alla base dell’elaborazione dell’unione di duplicati in blocco. Inizia l&#39;unione in blocco esportando i record duplicati in Excel per una pulizia e un consolidamento dei dati efficienti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429473/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439233/?captions=ita&learn=on&enablevpops)

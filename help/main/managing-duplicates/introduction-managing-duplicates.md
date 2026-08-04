@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Scopri i concetti di base per la gestione dei record duplicati nel database di Marketo Engage, il loro impatto sui flussi di lavoro e 4 metodi per mantenere i dati puliti. Guarda ogni video clip per scoprire come mantenere il database pulito e integro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441776/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441959/?captions=ita&learn=on&enablevpops)

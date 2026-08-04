@@ -19,4 +19,4 @@ ht-degree: 23%
 
 Scopri scenari in cui i duplicati sono utili, ad esempio famiglie con più persone o esigenze di conformità, e come gestirli in modo efficace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441949/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442053/?captions=ita&learn=on&enablevpops)
