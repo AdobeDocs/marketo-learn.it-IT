@@ -3,9 +3,9 @@ user-guide-title: Tutorial su Marketo Engage
 user-guide-description: Raccolta di video e tutorial su Adobe Marketo Engage.
 breadcrumb-title: Tutorial su Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 84f64797a27c9afe3035478a5d88c3c4dd6ddc9b
+source-git-commit: d448a04a177ddb861cc29e55914e0045437a734f
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '554'
 ht-degree: 83%
 ---
 
@@ -50,6 +50,7 @@ ht-degree: 83%
     + [Campagne nidificate con mappa di coinvolgimento](/help/main/engagement-maps/engagement-map-nested-campaign.md)
     + [Rilevamento e risoluzione degli errori della mappa di coinvolgimento](/help/main/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + E-mail marketing {#email-marketing}
+  + [Panoramica di E-mail designer](/help/main/email-marketing/email-designer-overview.md)
   + [E-mail pianificata](/help/main/email-marketing/scheduled-email-learn.md)
   + [Procedura dettagliata sulle e-mail pianificate](/help/main/email-marketing/scheduled-email-watch.md)
   + [Newsletter personalizzata](/help/main/email-marketing/personalized-newsletter-learn.md)

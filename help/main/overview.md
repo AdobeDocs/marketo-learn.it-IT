@@ -3,10 +3,10 @@ title: Tutorial su Marketo Engage
 description: Guarda i tutorial video su [!DNL Marketo Engage]. Scopri di più su come utilizzare le funzioni di automazione del marketing e altro ancora.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 84f64797a27c9afe3035478a5d88c3c4dd6ddc9b
+source-git-commit: d448a04a177ddb861cc29e55914e0045437a734f
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 69%
+source-wordcount: '218'
+ht-degree: 68%
 ---
 # Tutorial su [!DNL Marketo Engage]
 
@@ -23,14 +23,14 @@ Sfoglia la libreria dei tutorial e ottieni il massimo da [!DNL Marketo Engage]. 
 
 ## Novità {#whats-new}
 
+* [Panoramica di E-mail Designer](/help/main/email-marketing/email-designer-overview.md)
+  _Scopri le numerose funzioni disponibili in Marketo Engage Email Designer._
+
 * [Marketo Engage su Adobe Experience Cloud](/help/main/fundamentals/marketo-engage-aec.md)
   _Scopri come accedere a Marketo Engage da Adobe Experience Cloud e dai un&#39;occhiata rapida all&#39;interfaccia._
 
 * [Importazione modello](/help/main/shorts/template-import.md)
   _Scopri come importare i modelli e-mail esistenti dall’editor classico in E-mail Designer, mantenendo le progettazioni e accelerando la creazione dei modelli.._
-
-* [Contenuto condizionale](/help/main/shorts/conditional-content.md)
-  _Scopri come controllare dinamicamente il contenuto visualizzato dal pubblico._
 
 ## Video più popolari {#most-popular-videos}
 
