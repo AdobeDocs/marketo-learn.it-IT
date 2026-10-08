@@ -5,13 +5,28 @@ feature: REST API
 role: Admin, Developer
 level: Experienced
 exl-id: 46e54729-92ab-4bbb-9877-f762708def67
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: dca84292-69e9-4116-a575-667d31fa060d
+    internal-label: APIs
+subfeature_v2:
+  - id: cf1396d8-ab85-4e93-b35d-d9b573024abf
+    internal-label: REST APIs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '718'
 ht-degree: 3%
-
 ---
-
 # Attivare una campagna smart in Marketo Engage utilizzando l’API REST e i token
 
 Questo tutorial illustra come attivare una campagna avanzata in Marketo Engage utilizzando l’API REST e personalizzare l’e-mail utilizzando I miei token. Questo caso d’uso è ideale per le notifiche attivate dai clienti, ad esempio i promemoria dei webinar, i passaggi di onboarding o i follow-up successivi all’acquisto.
@@ -22,9 +37,9 @@ Una persona si registra per un webinar tramite una piattaforma esterna (ad esemp
 
 * Attivare un messaggio e-mail di promemoria da Marketo Engage
 * Personalizzalo con:
-   * Nome della persona
-   * Titolo webinar
-   * Un collegamento di unione univoco
+  * Nome della persona
+  * Titolo webinar
+  * Un collegamento di unione univoco
 
 Questa operazione può essere eseguita utilizzando l’API REST e I miei token.
 
